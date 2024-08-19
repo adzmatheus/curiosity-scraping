@@ -16,20 +16,19 @@ jobs:
     # Checa o código atual do repositório
     steps:
     - name: Checkout repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     # Instala o Python na versão 3.10
-    - uses: actions/checkout@v4
     - name: Set up Python 3.10
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v5
       with:
-        python-version: "3.10"
+        python-version: '3.10'
     - name: Instala dependencias
       run: |
         python -m pip install --upgrade pip
 
     # o nome do arquivo python
-    - name: Roda o arquivo
+    - name: Roda o app
       run: |
         python app.py
         cat README.md
