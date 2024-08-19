@@ -1,10 +1,14 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 from datetime import date
 # from PySimpleGUI import PySimpleGUI as sg
 
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+driver = webdriver.Chrome(options=chrome_options)
+
 # acessar o site https://www.guiadoscuriosos.com.br/curiosidade_dia_cat/curiosidade-do-dia
-driver = webdriver.Chrome()
 driver.get('https://www.guiadoscuriosos.com.br/curiosidade_dia_cat/curiosidade-do-dia')
 
 # extrair curiosidade do dia
