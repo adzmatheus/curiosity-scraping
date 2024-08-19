@@ -42,5 +42,5 @@ jobs:
         git config --global user.email "bot-readme@example.com"
         git config --global user.name "bot automático"
         git add -A
-        git commit -m "doc: Descrição atualizada!" || exit 0
+        git commit -m "doc: Descrição atualizada!"
         git push
