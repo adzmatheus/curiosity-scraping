@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-21/08/2024
+22/08/2024
 -
-O apelido de infância de Raul Seixas era Raulzito. Certa vez, a mãe dele, Maria Eugênia Santos Seixas, chegou em casa e o encontrou dentro da geladeira com o nariz sangrando. Era uma aposta entre ele e seu irmão Plínio para ver quem conseguia ficar mais tempo dentro do refrigerador. Raulzito não gostava de estudar. Repetiu cinco vezes a 2ª série do ginásio.
+O arqueólogo inglês William John Thoms (1803 – 1885), criador do termo “folclore”, enviou uma carta à revista The Atheneum, de Londres, em 1846, sob o pseudônimo Ambrose Merton. Na carta, ele pedia apoio para o levantamento de informações sobre tradições e lendas daquele país. O documento foi publicado no dia 22 de agosto e, por isso, a data foi escolhida como o Dia Mundial do Folclore. A palavra “folclore” deriva do inglês folk-lore: folk (povo), lore (conhecimento empírico, sabedoria) – ou seja, o termo designa a sabedoria de um povo.
