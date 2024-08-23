@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-22/08/2024
+23/08/2024
 -
-O arqueólogo inglês William John Thoms (1803 – 1885), criador do termo “folclore”, enviou uma carta à revista The Atheneum, de Londres, em 1846, sob o pseudônimo Ambrose Merton. Na carta, ele pedia apoio para o levantamento de informações sobre tradições e lendas daquele país. O documento foi publicado no dia 22 de agosto e, por isso, a data foi escolhida como o Dia Mundial do Folclore. A palavra “folclore” deriva do inglês folk-lore: folk (povo), lore (conhecimento empírico, sabedoria) – ou seja, o termo designa a sabedoria de um povo.
+O ator River Phoenix faria aniversário hoje. Ele morreu no dia 31 de outubro de 1993, aos 23 anos, vítima de overdose de drogas. O incidente aconteceu em frente à Viper Room, uma boate de Los Angeles que havia sido comprada meses antes pelo ator Johnny Depp. Para conhecer outras pessoas famosas que também morreram muito jovens, clique aqui.
