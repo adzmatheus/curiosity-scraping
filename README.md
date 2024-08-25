@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-24/08/2024
+25/08/2024
 -
-O ator River Phoenix faria aniversário hoje. Ele morreu no dia 31 de outubro de 1993, aos 23 anos, vítima de overdose de drogas. O incidente aconteceu em frente à Viper Room, uma boate de Los Angeles que havia sido comprada meses antes pelo ator Johnny Depp. Para conhecer outras pessoas famosas que também morreram muito jovens, clique aqui.
+Luís Alves de Lima e Silva, o Duque de Caxias, faria aniversário hoje. Ele é o patrono do Exército Brasileiro. Nasceu na fazenda São Paulo, em Tuquaru, Vila de Porto da Estrela, na capitania do Rio de Janeiro. A região pertence hoje ao Parque Histórico Duque de Caxias, localizado no município de mesmo nome. Filho de Francisco de Lima e Silva, marechal-de-campo do Exército, e de Mariana Cândida de Oliveira Belo, o menino Luís recebeu o título de Cadete de 1ª Classe aos cinco anos.
