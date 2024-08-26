@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-25/08/2024
+26/08/2024
 -
-Luís Alves de Lima e Silva, o Duque de Caxias, faria aniversário hoje. Ele é o patrono do Exército Brasileiro. Nasceu na fazenda São Paulo, em Tuquaru, Vila de Porto da Estrela, na capitania do Rio de Janeiro. A região pertence hoje ao Parque Histórico Duque de Caxias, localizado no município de mesmo nome. Filho de Francisco de Lima e Silva, marechal-de-campo do Exército, e de Mariana Cândida de Oliveira Belo, o menino Luís recebeu o título de Cadete de 1ª Classe aos cinco anos.
+Macaulay Culkin tornou-se um sucesso em Hollywood com Esqueceram de mim, versões 1 e 2, mas teve sua carreira destruída pelo pais, que lutavam pela custódia dele. Isto o manteve quatro anos longe das telas. Culkin foi a primeira criança de Hollywood a ganhar um milhão de dólares, pela atuaçao em Meu Primeiro Amor (1991). O ator era muito amigo de Michael Jackson. Ele, inclusive, é padrinho de dois de seus filhos: Prince Michael e Paris Jackson.
