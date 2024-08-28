@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/08/2024
+28/08/2024
 -
-Macaulay Culkin tornou-se um sucesso em Hollywood com Esqueceram de mim, versões 1 e 2, mas teve sua carreira destruída pelo pais, que lutavam pela custódia dele. Isto o manteve quatro anos longe das telas. Culkin foi a primeira criança de Hollywood a ganhar um milhão de dólares, pela atuaçao em Meu Primeiro Amor (1991). O ator era muito amigo de Michael Jackson. Ele, inclusive, é padrinho de dois de seus filhos: Prince Michael e Paris Jackson.
+Martin Luther King foi um dos organizadores da marcha pelos direitos civis em Washington (Estados Unidos), em 28 de agosto de 1963. Na ocasião, Luther King emocionou a multidão de 200 mil pessoas com o seu mais famoso discurso, “I Have a Dream” (“Eu tenho um sonho”). Um dos trechos dizia: “Eu tenho um sonho de que meus quatro filhos um dia viverão em uma nação que não os julgará pela cor de sua pele, mas pelo seu caráter.” Leia mais sobre discursos que mudaram a história.
