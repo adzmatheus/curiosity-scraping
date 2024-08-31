@@ -1,6 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-30/08/2024
+31/08/2024
 -
-O então casal de namorados Cameron Diaz e Justin Timberlake foi processado por uma dupla de fotógrafos em novembro de 2004. De acordo com os paparazzi, a atriz avançou sobre eles e tomou suas câmeras, enquanto Justin gritava: “Venham e lutem, covardes!”.
-10 brigas de artistas com paparazzi
+Feijão de corda é um tipo de feijão que cresce em trepadeiras (daí a expressão “de corda”). Os grãos são maiores do que o normal e são muito usado em pratos do interior de São Paulo, Minas Gerais e Nordeste. Já o feijão tropeiro, típico de Minas Gerais, é preparado com farinha de mandioca e couve e vem acompanhado de torresminho e bisteca de porco.
