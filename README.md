@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-31/08/2024
+01/09/2024
 -
-Feijão de corda é um tipo de feijão que cresce em trepadeiras (daí a expressão “de corda”). Os grãos são maiores do que o normal e são muito usado em pratos do interior de São Paulo, Minas Gerais e Nordeste. Já o feijão tropeiro, típico de Minas Gerais, é preparado com farinha de mandioca e couve e vem acompanhado de torresminho e bisteca de porco.
+O termo “Corinthian” era utilizado na Inglaterra no início do século XIX. Ele era aplicado aos cavalheiros e nobres que patrocinavam esportes. Quem sugeriu esse nome para o clube paulistano criado em 1 de setembro de 1910 foi Joaquim Ambrósio, um dos fundadores.
