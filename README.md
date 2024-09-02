@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-01/09/2024
+02/09/2024
 -
-O termo “Corinthian” era utilizado na Inglaterra no início do século XIX. Ele era aplicado aos cavalheiros e nobres que patrocinavam esportes. Quem sugeriu esse nome para o clube paulistano criado em 1 de setembro de 1910 foi Joaquim Ambrósio, um dos fundadores.
+Hoje é Dia do Pastor! Trata-se de uma homenagem ao dia da ordenação do reverendo Eduardo Carlos Pereira (1855 – 1923), em 1881, da Igreja Presbiteriana. Para fortalecer sua Igreja, o pastor incitou a criação de seminários, fundou a Sociedade Brasileira de Tratados Evangélicos, em 1883, com o objetivo de produzir literatura evangélica, e também concebeu o Plano de Missões Nacionais, buscando condições para sustentar pastores, professores e evangelistas sem ajuda estrangeira.
