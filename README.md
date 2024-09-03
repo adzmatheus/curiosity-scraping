@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-02/09/2024
+03/09/2024
 -
-Hoje é Dia do Pastor! Trata-se de uma homenagem ao dia da ordenação do reverendo Eduardo Carlos Pereira (1855 – 1923), em 1881, da Igreja Presbiteriana. Para fortalecer sua Igreja, o pastor incitou a criação de seminários, fundou a Sociedade Brasileira de Tratados Evangélicos, em 1883, com o objetivo de produzir literatura evangélica, e também concebeu o Plano de Missões Nacionais, buscando condições para sustentar pastores, professores e evangelistas sem ajuda estrangeira.
+No último jogo do Brasil na Copa 2014 – a disputa pelo 3º lugar contra a Holanda – o goleiro Júlio César levou o centésimo gol da Seleção em Copas e se sagrou o goleiro brasileiro mais vazado da história dos Mundiais. Foram 18 gols sofridos em duas edições do torneio.
