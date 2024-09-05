@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-04/09/2024
+05/09/2024
 -
-No último jogo do Brasil na Copa 2014 – a disputa pelo 3º lugar contra a Holanda – o goleiro Júlio César levou o centésimo gol da Seleção em Copas e se sagrou o goleiro brasileiro mais vazado da história dos Mundiais. Foram 18 gols sofridos em duas edições do torneio.
+A primeira convenção dos oficiais de farmácia – outro nome para os responsáveis técnicos de uma drogaria – aconteceu no dia 5 de setembro de 1953, na Biblioteca Municipal de São Paulo. Por isso, o farmacêutico Cid César do Amaral teve a ideia de homenagear a categoria nessa data.
