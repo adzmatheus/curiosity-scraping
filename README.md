@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-07/09/2024
+08/09/2024
 -
-O filme “AI – Inteligência Artificial” é baseado no livro “Super-toys Last All Summer Long”, do escritor inglês Brian Aldiss. Era um projeto antigo do cineasta Stanley Kubrick. Em 1985, pela primeira vez ele falou de sua ideia para o cineasta Steven Spielberg. Depois de assistir a “O Parque dos Dinossauros”, Kubrick percebeu que para fazer o sonhado filme sobre inteligência artificial precisaria de alta tecnologia e muito dinheiro. Spielberg seria o homem ideal para isso e foi convidado para dirigir o filme, do qual Kubrick só participaria como produtor.
+O ator e comediante Peter Sellers foi o primeiro homem a aparecer na capa da revista masculina Playboy (abril de 1964). Para fazer Al Capone de “Os Intocáveis” (1987), em aparições que somam apenas 18 minutos, Robert De Niro recebeu 1,5 milhão de dólares. Mais curiosidades sobre atores de Hollywood.
