@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-08/09/2024
+09/09/2024
 -
-O ator e comediante Peter Sellers foi o primeiro homem a aparecer na capa da revista masculina Playboy (abril de 1964). Para fazer Al Capone de “Os Intocáveis” (1987), em aparições que somam apenas 18 minutos, Robert De Niro recebeu 1,5 milhão de dólares. Mais curiosidades sobre atores de Hollywood.
+Hoje é Dia do Médico Veterinário! Embora as escolas de medicina veterinária existissem no Brasil desde 1910, a profissão só foi regulamentada em 1933, com um decreto do então presidente Getúlio Vargas, no dia 9 de setembro. Os médicos dos bichinhos só iriam contar com órgãos que os representassem em 1968, quando uma lei criou o Conselho Federal de Medicina Veterinária e os conselhos regionais.
