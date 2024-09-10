@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-09/09/2024
+10/09/2024
 -
-Hoje é Dia do Médico Veterinário! Embora as escolas de medicina veterinária existissem no Brasil desde 1910, a profissão só foi regulamentada em 1933, com um decreto do então presidente Getúlio Vargas, no dia 9 de setembro. Os médicos dos bichinhos só iriam contar com órgãos que os representassem em 1968, quando uma lei criou o Conselho Federal de Medicina Veterinária e os conselhos regionais.
+Rin-Tin-Tin, o famoso pastor alemão que, ao lado de seu dono Rusty, vivia grandes aventuras no velho-oeste, foi encontrado por seu dono e treinador, sargento Lee Duncan, no final da Primeira Guerra Mundial, na França. O soldado encontrou uma cadela abandonada na estação de cães de guerra alemães com cinco filhotes. Com medo de que os animais fossem mortos, Duncan adotou dois cachorrinhos: Rin-tin-tin e uma fêmea, Nannette. O primeiro filme de Rin-tin-tin, “Onde Começa o Norte”, foi lançado em 1919. O animal era apenas um coadjuvante, mas seu sucesso foi tão grande que o cachorro se tornou personagem principal, dando nome a uma série de televisão e a diversos longas-metragens.
