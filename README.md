@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-11/09/2024
+12/09/2024
 -
-Em 11 de setembro de 2001, quatro aviões foram sequestrados por terroristas afegãos nos Estados Unidos. Dois deles foram lançados contra as torres gêmeas do World Trade Center, em Nova York, que acabaram desabando. Morreram 2.819 pessoas. Foram recolhidos 65.000 objetos pessoais dos escombros. Entre eles estavam: 144 anéis, 437 relógios, 77 colares, 119 brincos e 80 pulseiras. As cédulas de dólares recolhidas nos destroços encheram 60 sacos de lixo de 100 litros cada.
+Em 12 de setembro de 1911, foi inaugurado o Teatro Municipal de São Paulo, após 9 anos de obras. Na verdade, a festa estava marcada para o dia 11 de setembro, mas teve de ser adiada, já que o cenário da ópera Hamlet, de Thomas Ambroise, chegou atrasado ao Brasil. A partir de então, o Teatro passou a receber as grandes companhias de ópera e de teatro europeias que passavam pelo Brasil em suas turnês latino-americanas.
