@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-12/09/2024
+13/09/2024
 -
-Em 12 de setembro de 1911, foi inaugurado o Teatro Municipal de São Paulo, após 9 anos de obras. Na verdade, a festa estava marcada para o dia 11 de setembro, mas teve de ser adiada, já que o cenário da ópera Hamlet, de Thomas Ambroise, chegou atrasado ao Brasil. A partir de então, o Teatro passou a receber as grandes companhias de ópera e de teatro europeias que passavam pelo Brasil em suas turnês latino-americanas.
+Os animais e plantas que habitam os desertos têm capacidades especiais para manter a umidade interna. Escorpiões e outros insetos têm o exoesqueleto (a carapaça) mais duro que o normal. Ele funciona como um tanque, mantendo o calor fora. Mamíferos e pequenos répteis ficam entocados o dia todo. Só saem para se alimentar durante a noite, quando é mais frio. Além de não se queimarem no sol, dentro da toca o ambiente é mais úmido, devido ao abafamento da respiração dos animais. Mais curiosidades sobre desertos.
