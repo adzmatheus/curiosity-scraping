@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-14/09/2024
+15/09/2024
 -
-A spice girl Victoria Adams confidenciou que seu namorado, o famoso jogador de futebol David Beckhman, gostava de vestir suas calcinhas. Uma pesquisa mostrou que um em cada sete ingleses tem esse costume. A maioria, no entanto, disse que não teria coragem de usar calcinhas ao sair de casa. Motivo: medo de sofrer um acidente e terem seu segredo descoberto.
+Entre 1915 e 1918, Agatha Christie trabalhou em uma farmácia preparando remédios e venenos. Muito do conhecimento que obteve nesse período a ajudou a escrever suas histórias de mistério. Seus livros venderam mais de 1 bilhão de cópias ao redor do mundo. A marca só é superada pela Bíblia e pelas obras de Shakespeare.
