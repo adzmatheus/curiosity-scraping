@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-18/09/2024
+19/09/2024
 -
-Nosso primeiro símbolo nacional, a bandeira, foi criado no dia 18 de setembro de 1822, por um decreto de D. Pedro I e, apesar de ter mudado bastante, ainda mantém o losango amarelo sobre o retângulo verde. A versão mais recente foi criada quatro dias após a proclamação da República e alterada somente em 1922, quando uma lei propôs que os estados brasileiro e o Distrito Federal fossem representados pelas estrelas. Os outros símbolos nacionais são as Armas Nacionais ou o Brasão Nacional, o Selo Nacional e o Hino Nacional, oficializado em 1922.
+Esfinges são monstros com cabeça humana e corpo de leão. A mais conhecida é a esfinge de Gizé, nas proximidades de Mênfis, no Egito, a pouco mais de cem metros das pirâmides e junto à foz do rio Nilo. Ela é mais antiga que as pirâmides e teria sido construída por Quéfren. Mede 39 metros de comprimento e 17 metros de altura. A palavra “esfinge”, em grego, significa “monstro que estrangula quem não adivinhar os seus enigmas”. Mais curiosidades sobre o Egito Antigo.
