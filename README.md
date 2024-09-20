@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-19/09/2024
+20/09/2024
 -
-Esfinges são monstros com cabeça humana e corpo de leão. A mais conhecida é a esfinge de Gizé, nas proximidades de Mênfis, no Egito, a pouco mais de cem metros das pirâmides e junto à foz do rio Nilo. Ela é mais antiga que as pirâmides e teria sido construída por Quéfren. Mede 39 metros de comprimento e 17 metros de altura. A palavra “esfinge”, em grego, significa “monstro que estrangula quem não adivinhar os seus enigmas”. Mais curiosidades sobre o Egito Antigo.
+A primeira lista telefônica, publicada no ano de 1878 em New Haven, Estados Unidos, continha apenas 50 nomes. Não havia números, só os nomes dos donos de aparelhos. Quem quisesse informação deveria ligar para a telefonista e dizer o nome da pessoa com quem desejava falar. Em 1906, apareceram pela primeira vez as Páginas Amarelas numa lista telefônica de Detroit. Elas traziam anúncios classificados.
