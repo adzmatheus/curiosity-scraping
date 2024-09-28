@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/09/2024
+28/09/2024
 -
-27 de setembro é a data da morte, em 1952, de um dos maiores fenômenos da história da música popular brasileira, Francisco Alves. Conhecido como o “rei da voz”, apelido dado pelo radialista César Ladeira, Francisco Alves apareceu em uma época em que as técnicas de gravação se aprimoravam, os discos se popularizavam, o rádio se desenvolvia e o samba se consagrava como estilo musical. Estima-se que vendeu cerca de 5 milhões de discos. Sua primeira gravação aconteceu em 1919, com três composições de Sinhô, o “rei do samba”: “Pé de Anjo”, “Fala, meu Louro” e “Alivia estes Olhos”. Foi responsável pela consgração de diversos compositores negros de samba, como Cartola, Heitor dos Prazeres e Ismael da Silva. Quando morreu, em um acidente de carro, ainda estava no auge da carreira. Sua morte provocou comoção popular em todo o país. Alguns dos sucessos mais importantes são “Boa Noite, Amor”, “É Bom Parar”, “Foi Ela”, “A Mulher que Ficou na Taça”, “Serra da Boa Esperança”, “Se Você Jurar”, “Fita Amarela”, “Aquarela do Brasil” e “Onde o Céu Azul é Mais Azul”.
+Hoje a atriz Gwyneth Paltrow faz aniversário. Em dezembro de 2000, um juiz de Los Angeles determinou que um perseguidor dela ficasse longe da atriz. O entregador de pizza Dante Michael Soiu enviou centenas de cartas a Gwyneth e chegou a ir à casa dos pais da moça. Ela chorou ao ouvir a sentença. Para conhecer outras histórias de gente famosa que já foi perseguida por fãs, clique aqui.
