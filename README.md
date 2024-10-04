@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-03/10/2024
+04/10/2024
 -
-A música de maior sucesso da banda brasileira Los Hermanos foi “Anna Júlia”. Só em janeiro de 2004, ela foi executada 4.074 vezes. Mas Ana Júlia, ao contrário do que alguns pensam, não foi o grande amor de nenhum dos integrantes da banda. Na verdade, o apaixonado da história era o produtor Alex Werner, que tinha um amor platônico por uma colega chamada Anna Júlia Werneck. Em homenagem ao amigo, Marcelo Camelo escreveu a canção. Conheça as histórias de outras musas inspiradoras da MPB.
+Hoje é Dia do Cão. As raças de cachorro fila brasileiro, mastim inglês, rottweiler e pitbull são as que têm as mordidas mais fortes. A mordida desses quatro cachorros é entre oito e 10 vezes mais forte que a do homem. A mordida do pitbull tem 200 quilos de pressão, cinco vezes menor que a do rottweiler, que chega a uma tonelada. Para saber mais sobre o melhor amigo do homem, clique aqui.
