@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-05/10/2024
+06/10/2024
 -
-O personagem Forrest Gump, vivido pelo ator Tom Hanks, ficou famoso por correr sem parar por bastante tempo. O norte-americano David Kunst fez mais ou menos como Forrest, só que na vida real. Ele foi a primeira pessoa a dar uma volta ao mundo a pé. Em 4 anos de corrida, Kunst usou 21 pares de sapatos.
+O paulista Ulysses Guimarães, aniversariante do dia, é o recordista de vitórias em eleições para a Câmara Federal. Ele exerceu 11 mandatos, de 1950 a 1992, quando morreu num trágico acidente de helicóptero. Afastou-se apenas uma vez, em 1961, para assumir o cargo de Ministro da Indústria e Comércio no regime parlamentarista instituído depois da renúncia de Jânio Quadros. Ulysses também é famoso por ter sido um dos fundadores do Partido do Movimento Democrático Brasileiro (PMDB), que existe até hoje.
