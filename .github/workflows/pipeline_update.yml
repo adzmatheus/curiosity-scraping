@@ -6,7 +6,7 @@ on:
   schedule:
     # cron é o "intervalo" de execução
     # nesse caso, ele irá rodar diariamente às 6h.
-    - cron: '0 10 * * *'
+    - cron: '0 6 * * *'
 
 # Aqui vem os passos que a ação segue
 jobs:
