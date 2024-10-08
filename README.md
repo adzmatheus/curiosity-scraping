@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-07/10/2024
+08/10/2024
 -
-Hoje se comemora o Dia do Compositor. Quando gravava com Tom Jobim a música Corcovado, o compositor João Gilberto engasgava sempre no mesmo verso: Um cigarro e um violão/Este amor, uma canção…. Até que sugeriu trocar a palavra cigarro por cantinho. O maestro Jobim, que fumava perto de três maços de cigarro por dia, aceitou a ideia do ex-fumante. Aliás, João tem tanto horror a qualquer tipo de fumo que atribui a isso o fracasso no início de sua carreira.
+Hoje é Dia do Nordestino. Padre Cícero é uma das figuras mais admiradas pelo povo nordestino. Em abril de 1872, Jesus apareceu no sonho desse padre cearense e recomendou sua ida a Juazeiro do Norte para cuidar de uma aldeota com apenas cinco casas de telha, 30 casas de palha e uma capelinha, a 10 quilômetros de Crato, sua terra natal. Zelando pelos pobres, o padre Cícero ganhava fama de benfeitor por toda a região.
