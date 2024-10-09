@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-08/10/2024
+09/10/2024
 -
-Hoje é Dia do Nordestino. Padre Cícero é uma das figuras mais admiradas pelo povo nordestino. Em abril de 1872, Jesus apareceu no sonho desse padre cearense e recomendou sua ida a Juazeiro do Norte para cuidar de uma aldeota com apenas cinco casas de telha, 30 casas de palha e uma capelinha, a 10 quilômetros de Crato, sua terra natal. Zelando pelos pobres, o padre Cícero ganhava fama de benfeitor por toda a região.
+O cantor e compositor John Lennon, ex-Beatle, faria aniversário hoje. A banda começou tocando em um clube alemão, sob o comando do empresário Bruno Korschnider. O nome do clube era Indra e tinha um elefante grande voltado para a rua para simbolizar a Índia. Eles tocaram lá por quase um ano. Ficavam instalados nos fundos de um velho cinema, o Bambi Kino. O quarto ficava numa antiga lojinha, em uma região cheia de travestis, prostitutas e gângsteres. No dormitório não havia nada além de paredes de concreto e dois beliches. Sem aquecimento nem cobertas, os integrantes da banda que se tornaria uma das mais famosas no mundo ficavam gelados. Mais curiosidades sobre The Beatles.
