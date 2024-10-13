@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-12/10/2024
+13/10/2024
 -
-Doze chimpanzés atuaram nos filmes de Tarzã. O mais famoso deles chamava-se Jiggs e atuou ao lado de Johnny Weissmüller. Nos anos 60, já aposentado, passou a se dedicar ao seu hobby predileto: a pintura. Em 2008, foi lançado o livro “Mim, Chita”, autobiografia fictícia do macaco. Escrito por James Lever, mas assinado por Chita, o livro concorreu ao prêmio Booker Prize. Na véspera do Natal de 2011, Chita, que desde 2001 era considerada o macaco mais velho do mundo, morreu aos 81 anos, vítima de insuficiência renal. Mais bichos que brilharam nas telas.
+Hoje o imperador D. Pedro I faria aniversário. Ele foi aclamado imperador em 12 de outubro de 1822 numa cerimônia no Campo de Santana (atual Praça da República), no Rio de Janeiro. Numa missa realizada em 1º de dezembro do mesmo ano, recebeu a coroa imperial, benzida com óleo santo, numa cerimônia que havia sido abolida pelos portugueses. Ele foi influenciado pela sagração e coroação de Napoleão Bonaparte, em 1804. Pela constituição de 1824, o cargo passou a se chamar Imperador Constitucional e Defensor Perpétuo do Brasil.
