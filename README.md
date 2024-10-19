@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-18/10/2024
+19/10/2024
 -
-Hoje se comemora o Dia do Médico em homenagem a São Lucas, padroeiro desse profissional. O santo nasceu em Antioquia (atual Turquia), numa família pagã e converteu-se ao cristianismo. Era médico e curou muitas pessoas pelos locais por onde passou. Morreu aos 80 anos e seus restos mortais estão na Basílica de Santa Justina, em Pádua, na Itália.
+A atriz Glória Menezes está fazendo aniversário. Em “Cavalo de Aço”, novela em que contracenou com seu marido, o ator Tarcísio Meira, o casal gravava uma cena num barco, em que haveria uma explosão e eles escapariam. Mas o barco alagou, afundou e o diretor, Walter Avancini, fascinado com a cena, não parou de filmar. Só chamou os bombeiros quando o casal estava quase morrendo afogado.
