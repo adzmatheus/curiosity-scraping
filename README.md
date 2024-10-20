@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-19/10/2024
+20/10/2024
 -
-A atriz Glória Menezes está fazendo aniversário. Em “Cavalo de Aço”, novela em que contracenou com seu marido, o ator Tarcísio Meira, o casal gravava uma cena num barco, em que haveria uma explosão e eles escapariam. Mas o barco alagou, afundou e o diretor, Walter Avancini, fascinado com a cena, não parou de filmar. Só chamou os bombeiros quando o casal estava quase morrendo afogado.
+Joachimsthaler era o nome de uma região da Boêmia de onde era retirada a prata para cunhar moedas. A moeda, que estava circulando por todos os lados, antes chamada pelo mesmo nome da região, passou a ser mais conhecida por “thaler”. Em dinamarquês e num alemão mais vulgar, a primeira consoante da palavra soava um pouco diferente, parecendo ser “daler”. O inglês adotou essa pronúncia, que aos poucos mudou sua escrita para “dollar” (“dólar”, em português).
