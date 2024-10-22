@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-21/10/2024
+22/10/2024
 -
-Joachimsthaler era o nome de uma região da Boêmia de onde era retirada a prata para cunhar moedas. A moeda, que estava circulando por todos os lados, antes chamada pelo mesmo nome da região, passou a ser mais conhecida por “thaler”. Em dinamarquês e num alemão mais vulgar, a primeira consoante da palavra soava um pouco diferente, parecendo ser “daler”. O inglês adotou essa pronúncia, que aos poucos mudou sua escrita para “dollar” (“dólar”, em português).
+Hoje é Dia do Paraquedista! Em 22 de outubro de 1797, foi realizado o primeiro salto bem-sucedido de paraquedas. O autor da façanha foi o francês André Jacques Garnerin (1769-1823). Ele pulou de uma altura de 914 metros no Parque Monceau, em Paris.
