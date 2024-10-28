@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/10/2024
+28/10/2024
 -
-Antes do estouro do vôlei, durante os anos 80, a Seleção Brasileira se resumia num único grande jogador. A dinastia de Antônio Carlos Moreno durou 21 anos e 366 jogos. Uma trajetória exemplar, iniciada aos 17 anos, em que ele disputou sete campeonatos sul-americanos e quatro Jogos Pan-americanos. Participou também de quatro Mundiais e quatro Olimpíadas.
+O escritor Graciliano Ramos nasceu em 27 de outubro de 1892. Seu romance “Angústia” foi publicado durante os nove meses em que esteve preso por motivos políticos, entre 1936 e 1937. Mas “Memórias do Cárcere”, que relata a experiência do escritor na prisão, só foi lançado no ano de sua morte (1953).
