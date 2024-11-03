@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-02/11/2024
+03/11/2024
 -
-Dia de Finados, comemorado hoje, é o dia da celebração da vida eterna das pessoas que já faleceram. Já no século I os cristãos rezavam pelos mortos. No século IV, eram celebradas missas em memória dessas pessoas. A partir do século V a Igreja passou a dedicar um dia para essa comemoração. E desde o século XIII se comemora Dia de Finados em 2 de novembro. A data foi escolhida porque 1º de novembro é Dia de Todos os Santos.
+Apesar de ser um grande fã da caça, Santo Humberto acabou escolhido como o patrono dos guardas florestais, e é homenageado no dia 3 de novembro. Nascido na Holanda por volta do ano de 656, Humberto descobriu sua missão religiosa ao ver um crucifixo entre os chifres de um cervo que tentava caçar. Ele foi bispo de Maestricht e também de Liège. Morreu na Bélgica, de causas naturais, no dia 30 de maio de 727.
