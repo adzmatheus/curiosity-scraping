@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-05/11/2024
+06/11/2024
 -
-Hoje é Dia do Inventor. Um dos maiores inventores da história foi Thomas Alva Edison. Ele registrou seu primeiro invento – uma máquina de votar, pela qual ninguém se interessou – quando tinha 21 anos. Dois anos mais tarde, inventou um indicador automático de cotações da bolsa de valores. Vendeu-o por 40 mil dólares e tomou a decisão de trabalhar em um laboratório próprio, num subúrbio de Nova York.
+A expressão “homem não chora” veio de uma regra de sobrevivência dos homens esquimós. É deles a responsabilidade de enfrentar o frio rigoroso. Para encarar as baixas temperaturas, eles tomam alguns cuidados como evitar correr. O suor poderia congelar e, conseqüentemente, lhes causar hipotermia. O mesmo princípio se aplica ao choro. As lágrimas congeladas poderiam obstruir os canais dos olhos e prejudicar permanentemente a visão. Por isso, os esquimós ensinam a seus filhos: “homem não chora”. Conheça a origem de outras expressões da nossa língua.
