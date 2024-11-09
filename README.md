@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-08/11/2024
+09/11/2024
 -
-Fadas, segundo a crendice popular, são pequeninas criaturas que não gostam de ser vistas pelas pessoas. Podem aparecer e desaparecer num piscar de olhos. Mudam de forma quando sentem vontade. Deixam sorte e felicidade por onde passam. Um aviso: jamais espie o banho das fadas na cachoeira. É um ritual mágico e secreto. Quem desobedecer mergulhará no mundo da fantasia e não conseguirá mais voltar para a vida real.
+Foi o americano Henry Ford (1863-1947) que construiu o primeiro carro movido a gasolina (1893). Dez anos depois, ele passou a fabricar carros em série na sua fábrica em Detroit, reduzindo seus custos drasticamente e tornando o automóvel um meio de transporte acessível. Os primeiros foram os modelos T, construídos de 1908 a 1927. Venderam mais de 15 milhões de unidades. “Faço carros de qualquer cor, desde que sejam pretos” dizia ele. Explicação técnica: a tinta preta era mais barata e secava mais rápido. Clique aqui e saiba mais sobre a história do automóvel.
