@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-11/11/2024
+12/11/2024
 -
-Martinho Lutero, autor da Reforma Protestante do século 16, é citado por parte dos historiadores como o iniciador da tradição da árvore de natal. Ele teria montado um pinheiro enfeitado com velas em sua casa, para mostrar às crianças como deveria ser o céu na noite do nascimento de Cristo.
+O serial killer Charles Manson e seu bando elegeram a música “Helter Skelter“, dos Beatles, como hino, e culparam a letra pelos assassinatos que cometeram em 1969. A batida da música é tão intensa que Ringo Starr sangrou as mãos ao gravar a bateria.
