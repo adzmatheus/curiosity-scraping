@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-13/11/2024
+14/11/2024
 -
-O anão Dunga foi cogitado pelos estúdios Disney para viver o papel do feiticeiro em Fantasia (1940). Isso porque, na época, o desenho da Branca de Neve estava no auge de sua popularidade. Walt Disney, no entanto, não teve dúvidas em sua preferência por Mickey Mouse. Yen Sid, nome do feiticeiro de “O Aprendiz de Feiticeiro”, é “Disney” escrito ao contrário. O sonho de Walt Disney era fazer não só uma, mas várias sequências de Fantasia. Ele desenvolveu material suficiente para 8 novos filmes da série. O projeto só saiu do papel, no entanto, em 1999, com Fantasia 2000.
+Hoje é Dia Nacional da Alfabetização! Comemora a fundação do Ministério da Educação, em 14 de novembro de 1930, ainda com o nome de Ministério da Educação e Saúde Pública. Sua criação foi uma das primeiras resoluções do governo de Getúlio Vargas, que havia tomado posse no dia 3 de novembro. O objetivo do ministério era promover o ensino primário e combater o analfabetismo. Mais tarde, a pasta criou normas para instituir o ensino secundário e as universidades.
