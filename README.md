@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-17/11/2024
+18/11/2024
 -
-Heitor Villa-Lobos estreou como músico modernista na Semana de Arte Moderna de 1922, realizada no Teatro Municipal de São Paulo. Apresentou “Sonata nº 2”, “Danças Características Africanas”, “Quarteto Simbólico” e “Impressões da Vida Mundana” em meio a vaias e urros da plateia. Em um dos concertos, entrou de casaca e de chinelos, porque estava com gota em um dos pés.
+Antônio Francisco Lisboa, o Aleijadinho, perdeu os dedos dos pés, quase todos os das mãos e ficou cego de um olho e por isso só trabalhava escondido, com os cinzéis amarrados ao antebraço. Além de entalhar em pedra e madeira, pintava e projetava igrejas. Tudo o que ganhava dividia com seu escravo Maurício. Executou o conjunto do santuário de Bom Jesus de Matozinhos, em Congonhas do Campo (MG), que reúne 66 imagens esculpidas em madeira e os 12 profetas feitos em pedra-sabão, e é considerado um dos mais importantes do período colonial brasileiro.
