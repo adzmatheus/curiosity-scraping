@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-18/11/2024
+19/11/2024
 -
-Antônio Francisco Lisboa, o Aleijadinho, perdeu os dedos dos pés, quase todos os das mãos e ficou cego de um olho e por isso só trabalhava escondido, com os cinzéis amarrados ao antebraço. Além de entalhar em pedra e madeira, pintava e projetava igrejas. Tudo o que ganhava dividia com seu escravo Maurício. Executou o conjunto do santuário de Bom Jesus de Matozinhos, em Congonhas do Campo (MG), que reúne 66 imagens esculpidas em madeira e os 12 profetas feitos em pedra-sabão, e é considerado um dos mais importantes do período colonial brasileiro.
+A primeira bandeira nacional foi criada em 18 de setembro de 1822, mas o modelo do atual pavilhão brasileiro foi projetado em 1889 por Raimundo Teixeira Mendes e Miguel Lemos. A esfera azul substituiu a antiga coroa imperial, e dentro dela estava representado o céu do Rio de Janeiro com a constelação do Cruzeiro do Sul, exatamente como apareceu às 8h30 do dia 15 de novembro de 1889, que marcou a Proclamação da República. A nova bandeira foi aprovada no dia 19 de novembro do mesmo ano.
