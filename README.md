@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-19/11/2024
+20/11/2024
 -
-A primeira bandeira nacional foi criada em 18 de setembro de 1822, mas o modelo do atual pavilhão brasileiro foi projetado em 1889 por Raimundo Teixeira Mendes e Miguel Lemos. A esfera azul substituiu a antiga coroa imperial, e dentro dela estava representado o céu do Rio de Janeiro com a constelação do Cruzeiro do Sul, exatamente como apareceu às 8h30 do dia 15 de novembro de 1889, que marcou a Proclamação da República. A nova bandeira foi aprovada no dia 19 de novembro do mesmo ano.
+Hoje é o Dia da Declaração dos Direitos da Criança. O documento foi aprovado por unanimidade pelas 78 nações membros durante a Assembléia Geral das Nações Unidas, no dia 20 de novembro de 1959. É uma adaptação de algumas partes da Declaração Universal dos Direitos Humanos, aprovada em 1948. Seus dez princípios mencionam direitos e liberdades de toda e qualquer criança, enfatizando que ela deve viver “num ambiente de compreensão, de tolerância, de amizade entre os povos, de paz e de fraternidade universal”.
