@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-20/11/2024
+21/11/2024
 -
-Hoje é o Dia da Declaração dos Direitos da Criança. O documento foi aprovado por unanimidade pelas 78 nações membros durante a Assembléia Geral das Nações Unidas, no dia 20 de novembro de 1959. É uma adaptação de algumas partes da Declaração Universal dos Direitos Humanos, aprovada em 1948. Seus dez princípios mencionam direitos e liberdades de toda e qualquer criança, enfatizando que ela deve viver “num ambiente de compreensão, de tolerância, de amizade entre os povos, de paz e de fraternidade universal”.
+A homeopatia no Brasil foi introduzida por um discípulo de Samuel Hahnemann, o pai da homeopatia. O francês Benoit-Jules Mure chegou ao Brasil no dia 21 de novembro de 1844. Bento Mure, como ficou conhecido, veio ao país para implantar uma colônia de sócios que tinha como objetivo formar a base de uma comunidade industrial de máquinas a vapor. No pouco tempo que ficou no Rio, no bairro da Lapa, o dr. Mure clinicou e difundiu a homeopatia através de curas “miraculosas”. O francês recebeu licença do Governo Imperial para montar sua colônia e partiu com cem famílias a bordo do navio Caroline para colonizar a península do Sahy, na divisa do Paraná com Santa Catarina.
