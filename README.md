@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-23/11/2024
+24/11/2024
 -
-O dia do músico é comemorado em 22 de novembro. Neste dia, a Igreja Católica homenageia Santa Cecília. Ela viveu em Roma, no século III, e é considerada a padroeira dos músicos, da música e do canto. De família nobre, Cecília participava diariamente da missa celebrada pelo papa Urbano nas catacumbas da via Ápia. Cecília decidiu viver na castidade, mas seu pai casou-a com Valeriano. Ela contou ao marido sua condição de virgem consagrada a Deus e conseguiu convencê-lo. Segundo a tradição, Cecília teria cantado para ele a beleza da castidade e ele acabou decidindo respeitar o voto da esposa. Além disso, Valeriano converteu-se ao catolicismo.
+O futebol brasileiro começou com um craque. Artilheiro habilidoso e oportunista, Charles William Miller, aniversariante do dia, era um mestre na arte de jogar bola. Obstinado, não sossegou enquanto o novo esporte não estivesse sacramentado no Brasil. Filho de um inglês e de uma brasileira, nasceu rico, na rua Monsenhor Andrade, perto da estação de trem do Brás, na época um bairro nobre de São Paulo. Aos 9 anos, foi estudar na Europa. Desembarcou em Southampton, no extremo sul das ilhas britânicas, e aprendeu a jogar futebol na Bannister Court School.
