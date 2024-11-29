@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-28/11/2024
+29/11/2024
 -
-Em 13 de janeiro de 2005, um grupo de cientistas da Universidade de Jena, na Alemanha, divulgou que haviam descoberto o fóssil de um inseto de 39 milhões de anos. O bicho é o mais antigo já encontrado na Terra. Ele mede oito milímetros de comprimento, tem dentes para se alimentar e asas em forma de leque. Os estudiosos o batizaram de Protoxenos Janzeni. Mais curiosidades sobre insetos.
+Os chifres dos alces levam 6 anos para atingir seu desenvolvimento pleno. Pesam 20 quilos e a abertura entre suas pontas chega a medir quase 2 metros. Em certas regiões da Ásia, as fêmeas dos alces são ordenhadas como as vacas. Conheça outros mamíferos curiosos.
