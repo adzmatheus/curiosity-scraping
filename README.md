@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-02/12/2024
+03/12/2024
 -
-Hoje é Dia Mundial de Combate à Aids. A data foi criada pela Organização Mundial de Saúde – OMS -, em outubro de 1997, com o apoio da Organização das Nações Unidas – ONU -, com o objetivo de reforçar a solidariedade, tolerância e compaixão em relação às pessoas infectadas pelo vírus HIV. O Dia Mundial de Combate à Aids foi adotado no Brasil em 1998, ao ser aprovado pelo Ministério da Saúde.
+Hoje é Dia Internacional da Pessoa com Deficiência. O dia foi escolhido durante uma Assembleia Geral da ONU, realizada em 14 de outubro de 1992, e coincide com a data da adoção do Programa de Ação Mundial para as Pessoas com Deficiência pela Assembleia Geral da ONU, em 1982. As entidades mundiais da área criaram o dia visando gerar conscientização, compromisso e ações que transformem a situação dos deficientes no mundo.
