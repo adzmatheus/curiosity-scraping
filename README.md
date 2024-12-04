@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-03/12/2024
+04/12/2024
 -
-Hoje é Dia Internacional da Pessoa com Deficiência. O dia foi escolhido durante uma Assembleia Geral da ONU, realizada em 14 de outubro de 1992, e coincide com a data da adoção do Programa de Ação Mundial para as Pessoas com Deficiência pela Assembleia Geral da ONU, em 1982. As entidades mundiais da área criaram o dia visando gerar conscientização, compromisso e ações que transformem a situação dos deficientes no mundo.
+Hoje é Dia dos Fundidores de Metal. É comemorado no Dia de Santa Bárbara, padroeira dos fundidores. Quando se converteu ao cristianismo, a garota foi denunciada pelo próprio pai, Dioscorus. Ela conseguiu escapar, mas ele a perseguiu, e acabou torturando-a e matando-a, no ano 235. Nesse momento, Dioscorus foi atingido por raios e por fogo, que caíam do céu. Por isso, a santa é associada à artilharia e a outros equipamentos militares.
