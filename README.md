@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-06/12/2024
+07/12/2024
 -
-Hoje é Dia da Cruz Vermelha Brasileira. Em 5 de dezembro de 1908, foi fundada a organização, que segue os preceitos estabelecidos pelas Convenções de Genebra e os Princípios Fundamentais da Cruz Vermelha Internacional. Seu primeiro presidente foi Oswaldo Cruz, médico e patrono da Saúde Pública no Brasil.
+Os primeiros microscópios simples, limitados à ampliação de uma única lente, foram construídos na metade do século XV e utilizados inicialmente para investigar o mundo dos insetos. Por causa da dificuldade em produzir vidro puro na época, as lentes dos microscópios distorciam as imagens e as contornavam com halos e espectros de cores.
