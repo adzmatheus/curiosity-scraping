@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-07/12/2024
+08/12/2024
 -
-Os primeiros microscópios simples, limitados à ampliação de uma única lente, foram construídos na metade do século XV e utilizados inicialmente para investigar o mundo dos insetos. Por causa da dificuldade em produzir vidro puro na época, as lentes dos microscópios distorciam as imagens e as contornavam com halos e espectros de cores.
+Comemora-se hoje, 7 de dezembro, o Dia Internacional da Aviação Civil. Nesse dia, em 1944, foi aberta a Convenção da Aviação Civil Internacional, em Chicago, Estados Unidos. O documento foi aprovado no Brasil pelo decreto-lei nº 7.952, de 11 de setembro de 1945.
