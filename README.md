@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-19/12/2024
+20/12/2024
 -
-Ben Affleck é amigo do ator Matt Damon há vários anos. Eles ganharam o Oscar de Melhor Roteiro Original em 1997, por “Gênio Indomável”. O roteiro do filme foi vendido por 600 mil dólares. Matt e Ben conheceram-se em Cambridge, Estados Unidos. Eles chegaram a dividir pelo menos dez apartamentos. Mais curiosidades sobre atores de Hollywood.
+Quem assistiu ao filme O Gladiador (2000) certamente não sabia dos efeitos afrodisíacos da arena. No livro A Arte do Amor, escrito há cerca de 2 mil anos, Ovídio observa que as mulheres ficavam mais dispostas e atenciosas quando viam os gladiadores disputando a vida no meio das feras. Um estudo científico confirmou o efeito desta descarga de estimulante cardíaco. Uma injeção de adrenalina pode levar alguém a se sentir apaixonado por qualquer pessoa atraente que esteja perto.
