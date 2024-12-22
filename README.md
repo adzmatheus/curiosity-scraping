@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-21/12/2024
+22/12/2024
 -
-Antes da se dedicar à carreira de músico, Frank Zappa, que hoje faria aniversário, foi designer de cartões comemorativos. No início dos anos 90, ele anunciou que estava com câncer e parou de fazer apresentações ao vivo. Seu último show foi na Tchecoslosváquia, a convite do presidente Vaclav Havel, que era seu fã.
+Os duendes são criaturas encantadas alegres e bagunceiros que vivem em colônias debaixo da terra. Amam festas, músicas e danças. Escolhem crianças como companheiros. O duende é um elemental noturno, que desaparece ao amanhecer. Gosta de despertar quem está dormindo profundamente. A melhor maneira de acalmar um duende é deixar um copo de leite no criado-mudo para que ele possa tomar um golinho.
