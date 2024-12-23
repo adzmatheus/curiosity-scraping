@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-22/12/2024
+23/12/2024
 -
-Os duendes são criaturas encantadas alegres e bagunceiros que vivem em colônias debaixo da terra. Amam festas, músicas e danças. Escolhem crianças como companheiros. O duende é um elemental noturno, que desaparece ao amanhecer. Gosta de despertar quem está dormindo profundamente. A melhor maneira de acalmar um duende é deixar um copo de leite no criado-mudo para que ele possa tomar um golinho.
+Existem muitas versões para a invenção do panetone. Uma delas afirma que o tradicional bolo recheado com frutas secas foi criado no ano de 900 por um italiano chamado Toni. O nome do padeiro teria originado o nome de sua criação, que ficou conhecida inicialmente como pane-di-Tone. No Brasil, o panetone ficou popular graças a Carlos Bauducco, que trouxe uma receita da Itália e vendia o produto em sua doceria.
