@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-23/12/2024
+24/12/2024
 -
-Existem muitas versões para a invenção do panetone. Uma delas afirma que o tradicional bolo recheado com frutas secas foi criado no ano de 900 por um italiano chamado Toni. O nome do padeiro teria originado o nome de sua criação, que ficou conhecida inicialmente como pane-di-Tone. No Brasil, o panetone ficou popular graças a Carlos Bauducco, que trouxe uma receita da Itália e vendia o produto em sua doceria.
+O amigo-secreto, ou amigo-oculto, teria sido criado por donos de fábricas norte-americanas. No fim do ano, os operários eram obrigados a participar de uma confraternização em que trocavam presentes. O problema era que os empregados mais chatos não recebiam nada dos colegas. Para resolver a situação, os presenteados passaram a ser escolhidos por sorteio.
