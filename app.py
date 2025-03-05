@@ -21,7 +21,7 @@ browser.get('https://www.guiadoscuriosos.com.br/curiosidade_dia_cat/curiosidade-
 
 # extrair curiosidade do dia
 # xPath //tag[@atributo='valor']
-curiosidade = browser.find_elements(By.XPATH,"//*[@id]/div[2]/div/p")
+curiosidade = browser.find_elements(By.XPATH,"//div[@class='post-content']/div[@class='excerpt entry-summary']/p[1]")
 
 data_atual = date.today()
 data_em_texto = data_atual.strftime('%d/%m/%Y')
