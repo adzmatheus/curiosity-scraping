@@ -9,7 +9,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 servico = Service(ChromeDriverManager().install())
 chrome_options = Options()
-chrome_options.add_argument("--headless")
+chrome_options.add_argument("--headless=new")
 browser = webdriver.Chrome(options=chrome_options)
 
 # acessar o site https://www.guiadoscuriosos.com.br/curiosidade_dia_cat/curiosidade-do-dia
