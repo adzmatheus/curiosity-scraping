@@ -3,17 +3,21 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from datetime import date
 # from PySimpleGUI import PySimpleGUI as sg
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 
+
+servico = Service(ChromeDriverManager().install())
 chrome_options = Options()
 chrome_options.add_argument("--headless")
-driver = webdriver.Chrome(options=chrome_options)
+browser = webdriver.Chrome(options=chrome_options)
 
 # acessar o site https://www.guiadoscuriosos.com.br/curiosidade_dia_cat/curiosidade-do-dia
-driver.get('https://www.guiadoscuriosos.com.br/curiosidade_dia_cat/curiosidade-do-dia')
+browser.get('https://www.guiadoscuriosos.com.br/curiosidade_dia_cat/curiosidade-do-dia')
 
 # extrair curiosidade do dia
 # xPath //tag[@atributo='valor']
-curiosidade = driver.find_elements(By.XPATH,"//*[@id]/div[2]/div/p")
+curiosidade = browser.find_elements(By.XPATH,"//*[@id]/div[2]/div/p")
 
 data_atual = date.today()
 data_em_texto = data_atual.strftime('%d/%m/%Y')

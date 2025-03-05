@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-03/01/2025
+05/03/2025
 -
-As cestas com redes presas nos aros, usadas nos campos de basquete, foram adotadas em 1896. Elas eram fechadas no fundo porque o ponto s√≥ valia quando a bola permanecia l√° dentro. Ao lado da cesta, sempre havia uma escada ou um bast√£o para sua retirada. Logo depois, criou-se um dispositivo para abrir o fundo da rede com a ajuda de um barbante. O formato atual passou a ser usado em 1898.
+O compositor Heitor Villa-Lobos faria anivers·rio hoje. Ele participou da Semana de Arte Moderna de 1922, realizada no Teatro Municipal de S„o Paulo, e em um de seus concertos, entrou de casaca e de chinelos, pois um dos pÈs estava machucado. Curiosidades sobre 10 compositores cl·ssicos.
