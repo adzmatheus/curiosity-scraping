@@ -30,11 +30,9 @@ jobs:
         apt list --installed    
         pip install --user pipenv
      
-    - name: Removing previous chrome instances on runner 
+    - name: Chrome instances 
       run: |
-        sudo apt purge google-chrome-stable
         sudo apt update
-        sudo apt install -y google-chrome-stable
 
     - name: Installing all necessary packages
       run: pipenv install
