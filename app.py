@@ -9,7 +9,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 servico = Service(ChromeDriverManager().install())
 chrome_options = Options()
-chrome_options.add_argument("--headless=new")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--disable-gpu")
+chrome_options.add_argument(f"--user-data-dir=/tmp/chrome-user-data-{os.getpid()}")  # Diretório único
 browser = webdriver.Chrome(options=chrome_options)
 
 # acessar o site https://www.guiadoscuriosos.com.br/curiosidade_dia_cat/curiosidade-do-dia
