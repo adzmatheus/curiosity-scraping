@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-08/03/2025
+09/03/2025
 -
-Você sabe por que hoje é o Dia Internacional da Mulher? Porque em 8 de março de 1857, 129 operárias de uma fábrica têxtil de Nova York entraram em greve. Reivindicavam salário igual ao dos homens e redução da jornada de trabalho, então de até 16 horas diárias. Os patrões trancaram as operárias e incendiaram a fábrica. Todas as grevistas morreram queimadas. Em 1910, o I Congresso Internacional das Mulheres, na Dinamarca, escolheu o dia 8 de março como o Dia da Mulher.
+O astronauta soviético Yuri Alieksieievitch Gagarin, aniversariante do dia, foi o primeiro homem a viajar pelo espaço. Isso aconteceu no dia 12 de abril de 1961, a bordo da Vostok I, uma nave que pesava 4.725 quilos. O passeio durou 1h48. Vendo nosso planeta do espaço, ele disse a famosa frase: “A terra é azul”.
