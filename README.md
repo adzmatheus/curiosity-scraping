@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-10/03/2025
+11/03/2025
 -
-Em 1876, o escocês Alexander Graham Bell (1847 – 1922) inventou o aparelho telefônico ao fazer pesquisas para melhorar a comunicação com deficientes auditivos. Em 10 de março desse ano, ele transmitiu a primeira mensagem através de um fio dentro de sua casa, em Boston, nos Estados Unidos. No momento em que se preparava para dizer a frase inaugural, Bell derramou acidentalmente um pouco de ácido sobre suas roupas. Assim, a primeira mensagem acabou sendo um pedido de ajuda, que dizia a seu assistente: “Senhor Watson, venha aqui imediatamente. Eu preciso do senhor.”
+Segundo registros encontrados na cidade italiana de Cittadella, Romeu e Julieta se casaram em 11 de março de 1302. A certidão de casamento é de um casal real chamado Romeo Montocchio e Juliet Capelletto, que oficializou a união nessa data. Não há evidência histórica que prove a existência dos personagens da famosa obra de William Shakespeare. Escrita nos anos de 1590, a peça foi baseada no poema “A Trágica História de Romeu e Julieta”, de Arthur Brooke, publicado 30 anos antes. Este, por sua vez, parece ter sido inspirado em uma novela lançada na Itália em 1531, que contava a história das famílias feudais Cappelletti e Montecchi, e terminou com a morte dos personagens Romeo e Giulietta.
