@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-11/03/2025
+12/03/2025
 -
-Segundo registros encontrados na cidade italiana de Cittadella, Romeu e Julieta se casaram em 11 de março de 1302. A certidão de casamento é de um casal real chamado Romeo Montocchio e Juliet Capelletto, que oficializou a união nessa data. Não há evidência histórica que prove a existência dos personagens da famosa obra de William Shakespeare. Escrita nos anos de 1590, a peça foi baseada no poema “A Trágica História de Romeu e Julieta”, de Arthur Brooke, publicado 30 anos antes. Este, por sua vez, parece ter sido inspirado em uma novela lançada na Itália em 1531, que contava a história das famílias feudais Cappelletti e Montecchi, e terminou com a morte dos personagens Romeo e Giulietta.
+Hoje é Dia do Bibliotecário! Essa data é uma homenagem ao bibliotecário, escritor e poeta Manuel Bastos Tigre, que nasceu em 12 de março de 1882. Em 1906, depois de finalizar seu curso de Engenharia, Manuel fez aperfeiçoamento em eletricidade, nos Estados Unidos. Lá, conheceu o bibliotecário Melvil Dewey, que o deixou interessado pela profissão. Aos 33 anos, Manuel foi trabalhar com biblioteconomia e se saiu tão bem que ficou em primeiro lugar no concurso para bibliotecário do Museu Nacional do Rio de Janeiro. Entre 1945 e 1947, trabalhou na Biblioteca Nacional e depois assumiu a direção da Biblioteca Central da Universidade do Brasil. O dia é comemorado oficialmente desde 1980, quando o presidente da República João Figueiredo assinou o decreto número 84.631, no dia 9 de abril.
