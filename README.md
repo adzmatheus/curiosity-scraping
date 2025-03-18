@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-17/03/2025
+18/03/2025
 -
-Em 29 de janeiro de 1976, a Corte de Roma declarou que o filme “O Último Tango em Paris”, do diretor Bernardo Bertolucci, aniversariante do dia, era obsceno. Bertolucci, o produtor Alberto Grimaldi e os atores, entre eles Marlon Brando, estariam sujeitos a ir parar na prisão caso aparecessem na cidade.
+Os Trapalhões evidenciavam as falhas de produção de um programa para televisão. Didi chegou a levantar a grama cenográfica, chutar pedras de isopor para cima, atravessar paredes falsas e debochar por estar se afogando em um mar de papel celofane. Ele recebeu críticas por “desmistificar a televisão”, mas a direção do programa continuou dando carta branca para essas brincadeiras. A formação mais famosa, com Dedé, Didi, Mussum, e Zacarias, começou em 1975, na TV Tupi. Foi para a TV Globo em 13/03/1977, e ficou até 27/08/1995.
