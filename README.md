@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-20/03/2025
+21/03/2025
 -
-Hoje é Dia de Oxalá, deusa da criação, orixá que criou os homens. Obstinado e independente, é representado de duas maneiras: Oxaguiã, jovem, e Oxalufã, velho. Para conhecer mais sobre outros orixás, clique aqui. E aproveite para entender o candomblé.
+Em 21 de março de 1960, 69 negros morreram em um confronto com o exército na África do Sul. Os oficiais abriram fogo contra um grupo de 20 mil manifestantes que protestavam pela fim da lei do Passe. Essa lei obrigava os negros a andarem com um cartão de identificação, que estabelecia os lugares, dentro das áreas administradas pelos brancos, por onde eles podiam ou não passar. Outras 186 pessoas saíram feridas da manifestação, que ficou conhecida como o Massacre de Shaperville. Dezesseis anos depois, em 1976, a ONU instituiu o Dia Internacional de Luta pela Eliminação da Discriminação Racial para marcar a data.
