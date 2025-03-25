@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-24/03/2025
+25/03/2025
 -
-O cartunista Joseph Barbera faria aniversário hoje. Ao lado de William Hanna, ele fundou a companhia Hanna-Barbera em 1957, responsável por clássicos da animação como Tom & Jerry e Os Flintstones. Joseph Barbera começou a vida profissional como bancário, mas largou tudo para se dedicar ao desenho. Ele morreu de causas naturais em 18 de dezembro de 2006, aos 95 anos.
+No dia 25 de março de 1824, o então Imperador D. Pedro I outorgou a primeira Constituição do Brasil. Entre seus principais pontos estavam a criação de um Poder Moderador  – exercido pelo próprio Imperador  – responsável por controlar o Executivo, Legislativo e Judiciário. Uma das mais conhecidas ruas da cidade de São Paulo, a 25 de março, foi batizada em homenagem à primeira Constituição.
