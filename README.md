@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/03/2025
+28/03/2025
 -
-Hoje é Dia do Circo! A data é um tributo ao palhaço Piolin, um dos mais famosos do Brasil, que comandou o Circo Piolin por mais de 30 anos. Abelardo Pinto, o Piolin, nasceu em Ribeirão Preto (SP), em 27 de março de 1897, em uma tradicional família circense. No Circo Americano, de seu pai, aprendeu a fazer acrobacias e contorcionismo e a tocar violino e bandolim. O nome de trabalho foi sugestão de artistas espanhóis que contracenaram com ele durante um espetáculo beneficente. Como era magro e tinha as pernas compridas, ganhou o apelido de Piolin (barbante). Na Semana de Arte Moderna, em 1922, os intelectuais saudaram Piolin como exemplo de artista popular tipicamente brasileiro. Ele faleceu em São Paulo, no dia 4 de setembro de 1973.
+A cantora Lady Gaga mostrou aptidão musical cedo: aprendeu a tocar piano aos 4 anos de idade e, aos 13, compôs sua primeira música. Aos 11 anos, ela foi aceita na Juilliard School, reconhecida escola de música em Nova York, mas preferiu se dedicar aos estudos na escola católica particular Convent of the Sacred Heart. Quando tinha 17 anos, entrou para a Escola de Artes Tisch, da Universidade de Nova York – ela é um dos únicos 20 alunos que já foram aceitos em idade precoce pela instituição.
