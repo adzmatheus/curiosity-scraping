@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-28/03/2025
+29/03/2025
 -
-A cantora Lady Gaga mostrou aptidão musical cedo: aprendeu a tocar piano aos 4 anos de idade e, aos 13, compôs sua primeira música. Aos 11 anos, ela foi aceita na Juilliard School, reconhecida escola de música em Nova York, mas preferiu se dedicar aos estudos na escola católica particular Convent of the Sacred Heart. Quando tinha 17 anos, entrou para a Escola de Artes Tisch, da Universidade de Nova York – ela é um dos únicos 20 alunos que já foram aceitos em idade precoce pela instituição.
+Você se lembra de National Kid? O herói, que veio da Galáxia Andrômeda, foi criado no Japão, em 1960, para divulgar os produtos da empresa de eletrônicos National, atual Panasonic. O seriado teve 39 episódios. O professor Massao Hata assumia a identidade secreta de National Kid e seus inimigos mais famosos foram os Incas Venusianos. No Brasil, o seriado foi exibido inicialmente pela TV Record de São Paulo a partir de 1964.
