@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-02/04/2025
+03/04/2025
 -
-O Patinho Feio, A Roupa Nova do Imperador, A Pequena Sereia: essas histórias conhecidas das crianças do mundo inteiro são apenas algumas das 168 escritas pelo grande homenageado do Dia Internacional do Livro Infantil, o escritor dinamarquês Hans Christian Andersen. Nascido na cidade de Odense, no dia 2 de abril de 1805, ele é considerado o maior autor de histórias infantis de todos os tempos. A International Board on Books for Young People, organização que promove a literatura infantil, todos os anos oferece o “Hans Christian Andersen”, considerado o Prêmio Nobel do gênero. Já foram premiadas as brasileiras Lygia Bojunga, em 1982, e Ana Maria Machado, em 2000. Andersen morreu no dia 4 de agosto de 1875.
+Os papagaios não falam, apenas imitam os sons que ouvem. Os formatos recurvados do bico, do palato (céu da boca) e da língua, associados à parte respiratória, facilitam a reprodução de sons mais graves, parecidos com a voz do homem. O mainá, pássaro nativo da Índia, imita a fala humana com mais fidelidade que o papagaio. Mais lendas animais que foram desvendadas.
