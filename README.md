@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-05/04/2025
+06/04/2025
 -
-O catupiry é uma criação brasileira. Foi inventado em 1911 pelo casal de imigrantes italianos Mário e Isaíra Silvestrini, na estância hidromineral de Lambari (MG). Muitos visitantes sofriam de problemas digestivos e adoravam aquele queijo cremoso. A palavra “catupiry”, em tupi-guarani, quer dizer excelente.
+Você sabe a origem do termo “gari”? O primeiro homem a assinar um contrato para limpar as ruas no Brasil foi justamente Pedro Aleixo Gari. Seu sobrenome acabou virando sinônimo de varredor de rua. Confira mais curiosidades sobre a Língua Portuguesa aqui.
