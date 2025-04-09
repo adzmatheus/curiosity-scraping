@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-08/04/2025
+09/04/2025
 -
-O decreto que instituiu a Nova Regulação do Correio foi proclamado em 8 de abril de 1805, em Lisboa, Portugal. É por isso que a data foi escolhida para comemorar o Dia Nacional do Correio. O sistema de correios terrestres no Brasil começou a ser organizado em 1798, assim como a correspondência marítima entre Rio de Janeiro e Lisboa e, mais tarde, entre outras cidades do Brasil e Portugal. A primeira agência postal brasileira foi criada no mesmo ano em Campos (RJ).
+No dia 9 de abril de 1959, a Nasa anunciou os nomes de sua primeira turma de astronautas para a imprensa e para o público. Sete homens foram rigorosamente escolhidos entre mais de cem pilotos de testes para participar do Projeto Mercury, cujo objetivo era realizar os primeiros voos tripulados dos Estados Unidos. Todos os eleitos eram casados e afirmaram ter total apoio de suas esposas para participar da missão. Um deles era John Glenn que, em 1962, foi o primeiro norte-americano a fazer um voo tripulado, na missão Friendship 7. A bordo da cápsula Mercury MA-G, ele fez três voltas em torno da órbita da Terra, em 4 horas, 55 minutos e 23 segundos. Em 1998, Glenn também se tornou o homem mais velho a viajar no espaço, aos 77 anos.
