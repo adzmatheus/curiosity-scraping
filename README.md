@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-12/04/2025
+13/04/2025
 -
-Hoje é aniversário do humorista Chico Anysio. Em 1948, ele participou dos concursos para locutor e radioator da Rádio Guanabara. No teste para locutor, ficou em segundo lugar; perdeu para Silvio Santos. Para radioator, terminou em sétimo lugar. O concurso foi ganho por Fernanda Montenegro.
+Bill Clinton não foi o primeiro nem o único presidente dos Estados Unidos a viver romances extra-conjugais. Há uma série de histórias, incluindo até mesmo candidatos à presidência. Thomas Jefferson, que faria aniversário neste dia, foi um deles. Teve um romance com Sally Hemings, filha de sua empregada.
