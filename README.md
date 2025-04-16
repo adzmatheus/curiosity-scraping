@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-15/04/2025
+16/04/2025
 -
-O “Vale dos Dinossauros”, na Paraíba, é o local onde se pode encontrar o maior número de pegadas de dinossauros no mundo todo. São 505 trilhas de 51 espécies diferentes de dinossauros que habitaram essa região há 120 milhões de anos.
+O comediante inglês Charles Chaplin faria aniversário hoje. A primeira apresentação de sua vida foi em um cabaré. Ele tinha apenas 5 anos quando teve de cantar uma música no lugar de sua mãe, que havia ficado doente.
