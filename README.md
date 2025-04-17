@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-16/04/2025
+17/04/2025
 -
-O comediante inglês Charles Chaplin faria aniversário hoje. A primeira apresentação de sua vida foi em um cabaré. Ele tinha apenas 5 anos quando teve de cantar uma música no lugar de sua mãe, que havia ficado doente.
+Hoje é Dia Mundial do Hemofílico. Um dos hemofílicos mais conhecidos do Brasil, se não o mais, foi o sociólogo Herbert de Souza, o Betinho. Ele morreu na noite de 9 de agosto de 1997, no Rio de Janeiro. Sofria da doença havia 11 anos e contraíra Aids numa transfusão. O mesmo aconteceu com seus irmãos, o cartunista Henfil e o músico Francisco Mário.
