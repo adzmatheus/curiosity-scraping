@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-21/04/2025
+22/04/2025
 -
-Hoje o ditador alemão Adolf Hitler faria aniversário. O pai do nazismo foi responsável pela morte de milhares de pessoas, entre elas negros, judeus, ciganos e homossexuais. Ainda menino, Hitler estudou na abadia de Lambach, cidade em que morava, e queria ser sacerdote. Lá, além de ter participado do coral dos meninos beneditinos, teve o primeiro contato com a suástica, que mais tarde passou a ser o símbolo do nazismo. O desenho teria sido trazido pelo abade Teodorich Hagen. Ele ordenou que todas as paredes, mesas e objetos de culto da abadia tivessem o símbolo esculpido.
+Pedro Álvares Cabral saiu da praia do Restelo, em Lisboa, ao meio-dia de 9 de março de 1500, uma segunda-feira. Ele tinha 32 anos. Trouxe um total de 1500 pessoas, que vieram em 10 naus e 3 caravelas. A nau capitânia, comandada por Cabral, tinha capacidade para 250 tonéis. Ao todo, havia 190 homens a bordo. Uma das naus desapareceu no dia 23 de março de 1500. Era comandada por Vasco de Ataíde, e tinha 150 homens. Os outros barcos fizeram dois dias de buscas, mas nada encontraram. A viagem levou 44 dias. No dia 22 de abril de 1500, Cabral ancorou em frente ao Monte Pascoal, na Bahia, a 36 quilômetros do litoral brasileiro.
