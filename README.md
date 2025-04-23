@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-22/04/2025
+23/04/2025
 -
-Pedro Álvares Cabral saiu da praia do Restelo, em Lisboa, ao meio-dia de 9 de março de 1500, uma segunda-feira. Ele tinha 32 anos. Trouxe um total de 1500 pessoas, que vieram em 10 naus e 3 caravelas. A nau capitânia, comandada por Cabral, tinha capacidade para 250 tonéis. Ao todo, havia 190 homens a bordo. Uma das naus desapareceu no dia 23 de março de 1500. Era comandada por Vasco de Ataíde, e tinha 150 homens. Os outros barcos fizeram dois dias de buscas, mas nada encontraram. A viagem levou 44 dias. No dia 22 de abril de 1500, Cabral ancorou em frente ao Monte Pascoal, na Bahia, a 36 quilômetros do litoral brasileiro.
+Hoje é Dia Nacional do Choro, em homenagem ao nascimento do músico Pixinguinha. O apelido de Alfredo da Rocha Viana Filho vem de uma mistura de “pizidim” (“menino bom”, no dialeto africano falado por sua avó) com “bexiguinha”, como era chamado na época em que contraiu varíola. A data existe oficialmente desde 4 de setembro de 2000, quando o presidente Fernando Henrique Cardoso sancionou a lei proposta pelo senador Artur da Távola e originada por iniciativa do bandolinista Hamilton Holanda e de seus alunos na Escola de Choro Rafael Rabello.
