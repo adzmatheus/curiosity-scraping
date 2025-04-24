@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-23/04/2025
+24/04/2025
 -
-Hoje é Dia Nacional do Choro, em homenagem ao nascimento do músico Pixinguinha. O apelido de Alfredo da Rocha Viana Filho vem de uma mistura de “pizidim” (“menino bom”, no dialeto africano falado por sua avó) com “bexiguinha”, como era chamado na época em que contraiu varíola. A data existe oficialmente desde 4 de setembro de 2000, quando o presidente Fernando Henrique Cardoso sancionou a lei proposta pelo senador Artur da Távola e originada por iniciativa do bandolinista Hamilton Holanda e de seus alunos na Escola de Choro Rafael Rabello.
+A Fundação da Memória Republicana, que abriga o Memorial José Sarney, é o mais ambicioso e completo de todos os memoriais de ex-presidentes do Brasil. Fica em São Luís do Maranhão e tem até espaço reservado para o seu mausoléu. Conta com uma biblioteca de 40 mil títulos, as agendas diárias de compromissos no Palácio do Planalto durante os cinco anos do governo Sarney, 70 mil recortes de reportagens de jornais e revistas da época, todos os despachos do então presidente, os pronunciamentos televisivos e todos os presentes recebidos enquanto ele ocupava a Presidência. Curiosidades sobre todos os ex-presidentes do Brasil.
