@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-25/04/2025
+26/04/2025
 -
-Os produtores de O Poderoso Chefão (1972) não queriam que Al Pacino interpretasse Michael Corleone. Mas o diretor Francis Ford Coppola bateu tanto o pé que Pacino acabou sendo chamado para o papel. Por isso, durante todas as filmagens, a equipe se referia ao ator como “aquele Pacininho”.
+Hoje é Dia do Goleiro. Sabe qual foi o primeiro goleiro a usar luvas no Brasil? Jaguaré Bezerra de Vasconcelos, o Dengoso, do Vasco da Gama. Em uma excursão do time à Europa, em 1929, o goleiro trouxe a novidade: 2 pares de luvas de borracha, pretas por fora e vermelhas por dentro.
