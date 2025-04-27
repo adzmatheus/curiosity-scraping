@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-26/04/2025
+27/04/2025
 -
-Hoje é Dia do Goleiro. Sabe qual foi o primeiro goleiro a usar luvas no Brasil? Jaguaré Bezerra de Vasconcelos, o Dengoso, do Vasco da Gama. Em uma excursão do time à Europa, em 1929, o goleiro trouxe a novidade: 2 pares de luvas de borracha, pretas por fora e vermelhas por dentro.
+Dinho, vocalista do Capital Inicial, está fazendo aniversário. Ele é filho de diplomatas. Antes de ir para Brasília, morou em Genebra, na Suíça. A canção “Música Urbana”, sucesso de sua banda, só tinha uma estrofe. Dinho ligou para Renato Russo, da Legião Urbana, e pediu a segunda estrofe. Ele fez a letra na hora, ditando para que Dinho escrevesse.
