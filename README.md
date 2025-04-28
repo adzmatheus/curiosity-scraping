@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/04/2025
+28/04/2025
 -
-Dinho, vocalista do Capital Inicial, está fazendo aniversário. Ele é filho de diplomatas. Antes de ir para Brasília, morou em Genebra, na Suíça. A canção “Música Urbana”, sucesso de sua banda, só tinha uma estrofe. Dinho ligou para Renato Russo, da Legião Urbana, e pediu a segunda estrofe. Ele fez a letra na hora, ditando para que Dinho escrevesse.
+No dia 28 de abril de 1959, foi fundado o Sindicato dos Trabalhadores Joalheiros (Sintrajoias), na cidade de São Paulo. Três anos depois, a Câmara dos Vereadores da capital paulista aprovou um projeto para que o Dia do Trabalhador Joalheiro fosse comemorado em 28 de abril. Na época, o sindicato ocupava uma sala alugada no Edifício Martinelli, na Rua São Bento, centro da cidade. Hoje, o Sintrajoias tem uma sede própria no bairro da Bela Vista e representa 60 mil trabalhadores no Estado de São Paulo.
