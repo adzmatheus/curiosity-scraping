@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-29/04/2025
+30/04/2025
 -
-No dia 28 de abril de 1959, foi fundado o Sindicato dos Trabalhadores Joalheiros (Sintrajoias), na cidade de São Paulo. Três anos depois, a Câmara dos Vereadores da capital paulista aprovou um projeto para que o Dia do Trabalhador Joalheiro fosse comemorado em 28 de abril. Na época, o sindicato ocupava uma sala alugada no Edifício Martinelli, na Rua São Bento, centro da cidade. Hoje, o Sintrajoias tem uma sede própria no bairro da Bela Vista e representa 60 mil trabalhadores no Estado de São Paulo.
+Hoje se comemora o Dia Nacional da Mulher. Nascida em 30 de abril de 1880, a mineira Jerônima Mesquita entrou para a história como uma grande defensora dos direitos das mulheres, como o direito de votar. A feminista ajudou a trazer o escotismo para o Brasil em 1919, ao organizar o movimento dos bandeirantes. Foi também a fundadora do Conselho Nacional de Mulheres do Brasil – CNMB -, em 1947. Jerônima morreu no Rio de Janeiro, em 1972.
