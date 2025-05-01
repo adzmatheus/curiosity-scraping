@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-30/04/2025
+01/05/2025
 -
-Hoje se comemora o Dia Nacional da Mulher. Nascida em 30 de abril de 1880, a mineira Jerônima Mesquita entrou para a história como uma grande defensora dos direitos das mulheres, como o direito de votar. A feminista ajudou a trazer o escotismo para o Brasil em 1919, ao organizar o movimento dos bandeirantes. Foi também a fundadora do Conselho Nacional de Mulheres do Brasil – CNMB -, em 1947. Jerônima morreu no Rio de Janeiro, em 1972.
+Hoje é Dia do Trabalho. Em 1º de maio de 1886, um confronto entre grevistas acabou com a morte de quatro manifestantes e três policiais, nos Estados Unidos. Oito líderes do movimento foram presos, sete condenados à morte e um à prisão perpétua. Este foi o episódio mais lembrado, anos mais tarde, quando os países industrializados decidiram escolher uma data para comemorar a luta dos trabalhadores pelo seus direitos.
