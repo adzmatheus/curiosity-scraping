@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-05/05/2025
+06/05/2025
 -
-Em 2011, a cantora Adele bateu um recorde de Madonna: desde 1990, uma mulher não ficava em primeiro lugar nas paradas britânicas por 10 semanas seguidas. Não satisfeita, ela também quebrou recordes de Beatles e Pink Floyd, ao ficar por 16 semanas em primeiro lugar nas paradas dos Estados Unidos. E tem mais: desde os Beatles, em 1964, ela é a primeira artista a ter dois hits entre os 5 primeiros das paradas britânicas simultaneamente.
+Cinco dias depois do Descobrimento do Brasil, em 1500, o astrônomo da frota de Pedro Álvares Cabral registrou a latitude da Baía de Cabrália, atual Porto Seguro. Esse documento é considerado o trabalho cartográfico mais antigo do Brasil. Na época, ainda se usava o Calendário Juliano e, feita a conversão para o Calendário Gregoriano, utilizado até hoje, o dia ficou marcado como 6 de maio. Para comemorar essa data, o Dia do Cartógrafo foi instituído pela Sociedade Brasileira de Cartografia (SBC).
