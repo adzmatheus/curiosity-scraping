@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-07/05/2025
+08/05/2025
 -
-Cinco dias depois do Descobrimento do Brasil, em 1500, o astrônomo da frota de Pedro Álvares Cabral registrou a latitude da Baía de Cabrália, atual Porto Seguro. Esse documento é considerado o trabalho cartográfico mais antigo do Brasil. Na época, ainda se usava o Calendário Juliano e, feita a conversão para o Calendário Gregoriano, utilizado até hoje, o dia ficou marcado como 6 de maio. Para comemorar essa data, o Dia do Cartógrafo foi instituído pela Sociedade Brasileira de Cartografia (SBC).
+No dia 8 de maio de 1886, o farmacêutico John Styth Pemberton começou a vender o xarope que havia inventado (mais tarde, batizado de Coca-Cola) por cinco centavos o copo em sua própria farmácia, como medicamento contra a ânsia de vômito. Em seu primeiro ano, a bebida deu prejuízo. Pemberton investiu 73 dólares em publicidade e faturou apenas 50 dólares com a venda de 13 copos do refrigerante por dia.
