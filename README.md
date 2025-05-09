@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-08/05/2025
+09/05/2025
 -
-No dia 8 de maio de 1886, o farmacêutico John Styth Pemberton começou a vender o xarope que havia inventado (mais tarde, batizado de Coca-Cola) por cinco centavos o copo em sua própria farmácia, como medicamento contra a ânsia de vômito. Em seu primeiro ano, a bebida deu prejuízo. Pemberton investiu 73 dólares em publicidade e faturou apenas 50 dólares com a venda de 13 copos do refrigerante por dia.
+Hoje é aniversário do humorista Dedé Santana. Dedé integrou a primeira formação de “Os Trapalhões”, ao lado de Renato Aragão, Wanderley Cardoso, Ivon Cury e Ted Boy Marino. O programa chamava-se “Adoráveis Trapalhões” e era apresentado pela TV Excelsior, em 1965. A formação mais famosa, com Dedé Santana, Mussum e Zacarias, começou em 1975, na TV Tupi.
