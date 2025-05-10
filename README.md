@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-09/05/2025
+10/05/2025
 -
-Hoje é aniversário do humorista Dedé Santana. Dedé integrou a primeira formação de “Os Trapalhões”, ao lado de Renato Aragão, Wanderley Cardoso, Ivon Cury e Ted Boy Marino. O programa chamava-se “Adoráveis Trapalhões” e era apresentado pela TV Excelsior, em 1965. A formação mais famosa, com Dedé Santana, Mussum e Zacarias, começou em 1975, na TV Tupi.
+Hoje, é aniversário de Bono Vox. Ele é o único homem no mundo que, além do Nobel, já foi indicado para o Oscar (pela trilha sonora de “Gangues de Nova York” ), o Grammy e o Globo de Ouro  – pelas músicas dos filmes “Em Nome do Pai” (1993), “Batman Eternamente” (1995) e “Terra de Sonhos” (2002).
