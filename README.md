@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-10/05/2025
+11/05/2025
 -
-Hoje, é aniversário de Bono Vox. Ele é o único homem no mundo que, além do Nobel, já foi indicado para o Oscar (pela trilha sonora de “Gangues de Nova York” ), o Grammy e o Globo de Ouro  – pelas músicas dos filmes “Em Nome do Pai” (1993), “Batman Eternamente” (1995) e “Terra de Sonhos” (2002).
+Hoje é Dia do Telégrafo. James Clerk Maxwell, professor de Física Experimental em Cambridge, na Inglaterra, provou matematicamente, em 1864, que uma onda elétrica podia produzir um efeito a uma distância considerável do ponto no qual ocorria (portanto, os sinais elétricos não estavam limitados a propagar-se ao longo de um fio). Era a teoria da telegrafia, que o físico alemão Heinrich Rudolf Hertz demonstrou experimentalmente em 1888.
