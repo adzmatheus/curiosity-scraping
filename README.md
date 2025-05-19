@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-18/05/2025
+19/05/2025
 -
-Ao longo da vida, Mário de Andrade correspondeu-se com 1.100 pessoas. Metódico e organizado, ele arquivou 7 mil cartas e, em seu testamento, determinou que elas só fossem abertas no ano do cinquentenário da sua morte. O cofre foi aberto em janeiro de 1995.
+Além do dia 11 de agosto, que marca a criação do curso de Direito no Brasil, os advogados também comemoram o 19 de maio, dia da morte de Santo Ivo (1253-1303), padroeiro da profissão. Nascido em uma família pobre na Bretanha, ele começou a estudar direito civil e canônico aos 14 anos de idade em Paris e Orleans. Santo Ivo atuou nas causas civis e eclesiásticas e defendia os pobres que não podiam pagar por um advogado.
