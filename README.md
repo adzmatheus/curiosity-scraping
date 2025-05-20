@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-19/05/2025
+20/05/2025
 -
-Além do dia 11 de agosto, que marca a criação do curso de Direito no Brasil, os advogados também comemoram o 19 de maio, dia da morte de Santo Ivo (1253-1303), padroeiro da profissão. Nascido em uma família pobre na Bretanha, ele começou a estudar direito civil e canônico aos 14 anos de idade em Paris e Orleans. Santo Ivo atuou nas causas civis e eclesiásticas e defendia os pobres que não podiam pagar por um advogado.
+Metrologia é a ciência que estuda as unidades de medida. Em 20 de maio de 1875, realizou-se a Convenção do Metro, em Paris, na França. Dezessete países assinaram um contrato e, de acordo com ele, passaram a adotar o sistema métrico. Atualmente, 18 nações fazem parte do acordo.
