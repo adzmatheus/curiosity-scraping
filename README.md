@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-22/05/2025
+23/05/2025
 -
-A cachaça começou a ser produzida na década de 1530, no litoral de São Paulo, logo depois do início do povoamento do Brasil, nos engenhos Madre de Deus, São João e dos Erasmos, do português Martin Afonso de Souza. Os portugueses decidiram aproveitar o mel de cana abundante por aqui para competir com o rum, bebida vinda da Jamaica que fez sucesso na Europa do século 16. No início, o aguardente era chamado “vinho de cana” ou “vinho de mel”. O nome “cachaça” se popularizou a partir do século 18, e vem do espanhol “cachaza”, que naquele período significava “bagaceira inferior”.
+A sigla M.M.D.C. representa os nomes dos quatro rapazes mortos no levante paulista de 23 de maio de 1932: Miragaia, Martins, Dráusio e Camargo. Uma lei promulgada em 2004 acrescentou à sigla MMDC a letra A. Ela se refere a Alvarenga, sobrenome de Orlando de Oliveira. Supõe-se que o rapaz também teria morrido nos conflitos contra aliados de Getúlio Vargas. A decisão de incluí-lo no grupo de combatentes causou polêmica. Há dúvidas sobre a data dos ferimentos de Alvarenga. Acredita-se que ele tenha sido ferido apenas em agosto, pois há um espaço de tempo em que seu nome não consta na relação de internos do hospital.
