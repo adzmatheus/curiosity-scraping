@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-26/05/2025
+27/05/2025
 -
-O filme Star Wars, que estreou nos EUA em 25 de maio de 1977, ganhou seis Oscars. Referência quando o assunto é ficção científica, a obra-prima de George Lucas foi filmada em locações na Tunísia, Guatemala, EUA e Inglaterra.
+O ator John Wayne, aniversariante do dia, esteve entre os 10 atores que mais recebem correspondências 25 vezes em sua carreira, mais do que qualquer estrela da história do cinema. Entre 1949 e 1974, em apenas um ano ele não apareceu: 1956. Nos anos de 1950, 1951, 1954 e 1971 ele foi o número 1 do ranking.
