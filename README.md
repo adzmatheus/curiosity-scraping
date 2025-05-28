@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/05/2025
+28/05/2025
 -
-O ator John Wayne, aniversariante do dia, esteve entre os 10 atores que mais recebem correspondências 25 vezes em sua carreira, mais do que qualquer estrela da história do cinema. Entre 1949 e 1974, em apenas um ano ele não apareceu: 1956. Nos anos de 1950, 1951, 1954 e 1971 ele foi o número 1 do ranking.
+Em 1987, na Costa Rica, foi realizado o V Encontro Internacional da Mulher e da Saúde. Durante o evento foram discutidas questões relacionadas à morte de mulheres durante a gravidez, o parto, o pós-parto e decorrentes de abortos malfeitos. Logo depois do encontro, em uma reunião realizada no dia 28 de maio, 80 mulheres de várias nacionalidades instituíram esse dia como Dia de Ação pela Saúde da Mulher. Uma vez que o primeiro tema discutido foi a morte materna, a data também é lembrada como o Dia Mundial Contra a Mortalidade Materna. Após essa iniciativa, a campanha foi assumida por vários países e associações internacionais. O tema muda a cada dois anos, mas está sempre relacionado à saúde sexual e reprodutiva da mulher.
