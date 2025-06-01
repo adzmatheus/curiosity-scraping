@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-31/05/2025
+01/06/2025
 -
-Hoje é Dia dos Bandeiras. Bandeiras em estado ruim de conservação não podem ser hasteadas em nenhum lugar do território nacional, mas sim entregues a uma unidade militar para que sejam incineradas em 19 de novembro, Dia da Bandeira.
+Apesar de já ter ganho o Oscar, o aniversariante de hoje, Morgan Freeman, começou sua carreira como figurante. A primeira aparição do ator nas telas dos cinemas foi em “O Homem do Prego”, de 1964, como um pedestre. Freeman fez mais duas figurações antes de ser creditado por um personagem.
