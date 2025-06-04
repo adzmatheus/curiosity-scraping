@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-03/06/2025
+04/06/2025
 -
-David Carradine estrelou os 72 episódios do seriado “Kung Fu“. Ele fazia o papel de Kwai Chang Caine, também chamado de Gafanhoto pelo seu professor, mestre Pó. A trama mostrava suas andanças pelos Estados Unidos atrás de um irmão desconhecido, seu exaustivo treinamento para se tornar um shaolin e a perseguição empreendida por caçadores de recompensa (ele estava sendo procurado pela morte de um membro da realeza). Os episódios tiveram cenas gravadas no Mosteiro de Shaolim, na cidade de Zhenghzou, na China.
+A atriz Angelina Jolie é conhecida por ser uma pessoa de hábitos exóticos. Além de criar ratos e colecionar punhais, ela andava com um pouco do sangue do ex-marido, o ator Billy Bob Thornton, em um vidrinho pendurado no pescoço, quando os dois eram casados.
