@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-10/06/2025
+11/06/2025
 -
-Também conhecido como o Dia de Portugal, hoje é lembrada a data da morte do poeta português Luís Vaz de Camões, autor do poema épico “Os Lusíadas”. Camões nasceu provavelmente em Lisboa, entre 1524 e 1525, e pertencia a uma família da pequena nobreza, vinda da Espanha. Ele trocou os estudos pelas viagens às Índias, que acabaram inspirando sua obra-prima. “Os Lusíadas” foi publicado em 1572. Camões morreu oito anos depois, pobre e esquecido.
+Hoje é Dia da Marinha Brasileira. Marca o dia da Batalha Naval do Riachuelo, no Rio Paraná, em 1865. Em uma das batalhas mais decisivas da Guerra do Paraguai, a esquadra brasileira, comandada pelo almirante Tamandaré e Francisco Manuel Barroso da Silva – aliado às forças argentinas sob o comando do general Paunero -, praticamente aniquilou a paraguaia, comandada por Pedro Inacio Meza. A vitória do Brasil impediu a invasão da província argentina de Entre Ríos e interrompeu a marcha do governante paraguaio Solano López, até então triunfante. A partir desse episódio, o Paraguai só pôde colocar em prática estratégias de defesa.
