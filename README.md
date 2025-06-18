@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-17/06/2025
+18/06/2025
 -
-A desertificação – ou seca – é um processo de degradação do solo, da vegetação e dos recursos hídricos, que pode fazer com que a área atingida se torne um deserto. Geralmente, o fenômeno é causado por variações climáticas e pela ação do homem. Para tentar conter essa ameaça, em 1993 teve início a Convenção Internacional de Combate à Desertificação, que terminou no dia 17 de junho de 1994, data que se transformou no Dia Mundial de Luta contra a Desertificação. A Convenção foi assinada por mais de 100 países, incluindo o Brasil, e suas resoluções entraram em vigor em 1996.
+No dia 18 de junho de 1908, um navio de 6 mil toneladas chamado Kasato-Maru aportou em Santos com 781 japoneses contratados para trabalhar em fazendas do café no país. O fato marcou o início da imigração nipônica ao Brasil, que durou de 1908 a 1968. Nesse período, desembarcaram em solo nacional 243.441 filhos da terra do Sol vermelho. Eles se concentraram principalmente na região norte do Paraná e no estado de São Paulo.
