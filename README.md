@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-18/06/2025
+19/06/2025
 -
-No dia 18 de junho de 1908, um navio de 6 mil toneladas chamado Kasato-Maru aportou em Santos com 781 japoneses contratados para trabalhar em fazendas do café no país. O fato marcou o início da imigração nipônica ao Brasil, que durou de 1908 a 1968. Nesse período, desembarcaram em solo nacional 243.441 filhos da terra do Sol vermelho. Eles se concentraram principalmente na região norte do Paraná e no estado de São Paulo.
+Hoje é aniversário do francês Blaise Pascal. A primeira máquina de somar de verdade foi construída por ele em 1642. Filósofo e matemático, Pascal cresceu observando seu pai ocupado em horas de cálculos tediosos. Determinado a reduzir o trabalho do pai (e possivelmente o seu próprio no futuro, pois também pensava em se tornar um cobrador de impostos), construiu aos 19 anos um aparelho automático que, girando suas pequenas rodas, adicionava e subtraía. Por mais precisa e rápida que fosse para sua época, a máquina de calcular de Pascal nunca foi bem aceita: os funcionários, cujo ganha­-pão era baseado nos cálculos à mão, viram no dispositivo uma ameaça a seu trabalho e se recusaram a usá­-lo.
