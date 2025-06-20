@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-19/06/2025
+20/06/2025
 -
-Hoje é aniversário do francês Blaise Pascal. A primeira máquina de somar de verdade foi construída por ele em 1642. Filósofo e matemático, Pascal cresceu observando seu pai ocupado em horas de cálculos tediosos. Determinado a reduzir o trabalho do pai (e possivelmente o seu próprio no futuro, pois também pensava em se tornar um cobrador de impostos), construiu aos 19 anos um aparelho automático que, girando suas pequenas rodas, adicionava e subtraía. Por mais precisa e rápida que fosse para sua época, a máquina de calcular de Pascal nunca foi bem aceita: os funcionários, cujo ganha­-pão era baseado nos cálculos à mão, viram no dispositivo uma ameaça a seu trabalho e se recusaram a usá­-lo.
+Em 2004, Nicole Kidman entrou para o Guinness Book – O Livro dos Recordes como a atriz mais bem paga do mundo. Só para estrelar um comercial do perfume Chanel nº 5 ela recebeu 3,7 milhões de dólares. A loira perdeu o título em 2011 para Sandra Bullock, que ganhou 56 milhões de dólares por seu papel em Um Sonho Possível (2009). Curiosidades sobre 19 atrizes de Hollywood.
