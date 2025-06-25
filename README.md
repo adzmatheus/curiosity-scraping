@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-24/06/2025
+25/06/2025
 -
-Hoje é Dia de São João! O primo de Jesus Cristo teria nascido por milagre, já que seus pais, Isabel e Zacarias, já eram velhos demais para terem filhos. Adulto, João Batista ficou famoso como pregador e ganhara o apelido Batista exatamente por batizar as pessoas que queriam se purificar de todos os pecados e esperar pela vinda do Messias. Ele mesmo batizou Jesus no Rio Jordão. No Nordeste, a festa de São João é tão importante que quase impediu a votação do IPMF no Congresso em 1993. O governo só conseguiu manter os deputados nordestinos no plenário porque prometeu reservas em voos que chegavam a tempo para a abertura da comemoração.
+No dia 25 de junho de 1862, sob a lei do Imperador dom Pedro II, o Brasil adotou o Sistema Métrico Decimal Francês, criado em 1793, e que tinha três unidades básicas: o metro, o litro e o quilograma. Antes, a medição não era controlada nem unificada e as medidas usadas eram as mesmas utilizadas em Portugal: a libra, a arroba e o salamim. O novo sistema gerou uma série de manifestações. A maior delas foi o Quebra-Quilos, na Paraíba, em 1874, quando quase mil pessoas armadas amassaram os quilos e medidas em lojas comerciais.
