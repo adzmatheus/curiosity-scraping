@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/06/2025
+28/06/2025
 -
-O aniversariante do dia é Gilberto Gil. Em 1963, ele conheceu Caetano Veloso, Gal Costa, Maria Bethânia e Tom Zé. Com eles, no ano de 1964, se apresentou em público pela primeira vez, no show “Nós, por Exemplo”, no Teatro Vila Velha.
+O escritor Guimarães Rosa faria aniversário hoje. Sua família o chamava de Joãozito. Quando tinha seis anos, leu, em francês, seu primeiro livro: Les Femmes Qui Aimment. Foi autodidata, estudando sozinho os idiomas alemão e russo. A riqueza regional de suas obras vem de um hábito que sempre cultivou: andava pela zona rural com um caderninho pendurado no pescoço, onde anotava expressões populares e nomes de plantas e animais.
