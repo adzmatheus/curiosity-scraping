@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-28/06/2025
+29/06/2025
 -
-O escritor Guimarães Rosa faria aniversário hoje. Sua família o chamava de Joãozito. Quando tinha seis anos, leu, em francês, seu primeiro livro: Les Femmes Qui Aimment. Foi autodidata, estudando sozinho os idiomas alemão e russo. A riqueza regional de suas obras vem de um hábito que sempre cultivou: andava pela zona rural com um caderninho pendurado no pescoço, onde anotava expressões populares e nomes de plantas e animais.
+O apresentador de TV Serginho Groisman faz aniversário hoje. No início dos anos 70, quando ele estudava no colégio Equipe, em São Paulo, promovia eventos musicais no teatro do local. Levava para lá músicos como Arrigo Barnabé, Gilberto Gil e Paulinho da Viola. Ele estreou na Rede Globo em 1982, numa reportagem para o “Fantástico”. Entrevistou o então piloto de kart Christian Fittipaldi. Mas só sua mão apareceu no vídeo.
