@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-30/06/2025
+01/07/2025
 -
-O apresentador de TV Serginho Groisman faz aniversário hoje. No início dos anos 70, quando ele estudava no colégio Equipe, em São Paulo, promovia eventos musicais no teatro do local. Levava para lá músicos como Arrigo Barnabé, Gilberto Gil e Paulinho da Viola. Ele estreou na Rede Globo em 1982, numa reportagem para o “Fantástico”. Entrevistou o então piloto de kart Christian Fittipaldi. Mas só sua mão apareceu no vídeo.
+Em toda a sua vida, Chico Xavier, o maior médium do Brasil, escreveu 412 obras. Depois de sua morte, mais 39 livros psicografados por ele foram publicados. Chico nunca admitiu ser o autor dessas obras, dizendo que apenas escrevia o que os espíritos ditavam. Por isso, não aceitava o dinheiro arrecadado com os livros. O médium psicografou também cerca de 10 mil cartas de falecidos a familiares. Chico Xavier morreu às 19h30 do dia 30 de junho de 2002, aos 92 anos, em Uberaba (MG). No mesmo dia, o Brasil conquistou pela quinta vez a Copa do Mundo. Amigos do médium contam que ele pedia a Deus para morrer em um dia em que o país estivesse em festa.
