@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-01/07/2025
+02/07/2025
 -
-Em toda a sua vida, Chico Xavier, o maior médium do Brasil, escreveu 412 obras. Depois de sua morte, mais 39 livros psicografados por ele foram publicados. Chico nunca admitiu ser o autor dessas obras, dizendo que apenas escrevia o que os espíritos ditavam. Por isso, não aceitava o dinheiro arrecadado com os livros. O médium psicografou também cerca de 10 mil cartas de falecidos a familiares. Chico Xavier morreu às 19h30 do dia 30 de junho de 2002, aos 92 anos, em Uberaba (MG). No mesmo dia, o Brasil conquistou pela quinta vez a Copa do Mundo. Amigos do médium contam que ele pedia a Deus para morrer em um dia em que o país estivesse em festa.
+Em 2 de julho de 1945, foi inaugurado o hospital mais antigo do Brasil, a Santa Casa da Misericórdia de Santos (SP), pelo presidente Getúlio Vargas. Na verdade, a festa marcou a abertura do prédio mais recente da Santa Casa, originalmente criada por Braz Cubas em 1543, quando a cidade de Santos ainda era o povoado de Enguaguaçu. Chamado de Hospital de Todos os Santos, o local teve seu nome inspirado no maior hospital de Lisboa da época, e a data da sua fundação – 1o de novembro, o Dia de Todos os Santos – e acabou por batizar a futura cidade.
