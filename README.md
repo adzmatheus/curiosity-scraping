@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-03/07/2025
+04/07/2025
 -
-Em 2 de julho de 1945, foi inaugurado o hospital mais antigo do Brasil, a Santa Casa da Misericórdia de Santos (SP), pelo presidente Getúlio Vargas. Na verdade, a festa marcou a abertura do prédio mais recente da Santa Casa, originalmente criada por Braz Cubas em 1543, quando a cidade de Santos ainda era o povoado de Enguaguaçu. Chamado de Hospital de Todos os Santos, o local teve seu nome inspirado no maior hospital de Lisboa da época, e a data da sua fundação – 1o de novembro, o Dia de Todos os Santos – e acabou por batizar a futura cidade.
+O arroz doce, tradicional de Portugal, é uma sobremesa preparada com arroz, leite e açúcar, perfumada com casca de limão e canela. Entre as famílias ricas de Portugal, ele era presença obrigatória em dias de festa. Daí a expressão “arroz-de-festa” para aquela pessoa que não falta em nenhum evento.
