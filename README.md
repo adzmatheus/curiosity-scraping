@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-04/07/2025
+05/07/2025
 -
-O arroz doce, tradicional de Portugal, é uma sobremesa preparada com arroz, leite e açúcar, perfumada com casca de limão e canela. Entre as famílias ricas de Portugal, ele era presença obrigatória em dias de festa. Daí a expressão “arroz-de-festa” para aquela pessoa que não falta em nenhum evento.
+Há 2 mil anos, na Lídia, um pequeno país da Ásia Menor, alguém iniciou a cunhagem da moeda, em ouro, prata, cobre, bronze e outros metais. Outros países copiaram e aperfeiçoaram o sistema. Grécia e Roma colocaram símbolos nacionais nas moedas. A primeira moeda de prata de valor e peso definidos surgiu no século VII a.C. na ilha grega de Egina. Clique aqui e conheça outras curiosidades sobre dinheiro.
