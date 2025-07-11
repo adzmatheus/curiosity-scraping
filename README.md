@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-10/07/2025
+11/07/2025
 -
-Hoje comemora-se o Dia da Pizza. A história da pizza começou há 6 mil anos com os egípcios. Acredita-se que eles foram os primeiros a misturar farinha com água. Outros afirmam que os pioneiros são os gregos, que faziam as massas à base de farinha de trigo, arroz ou grão-de-bico, assadas em tijolos quentes. A novidade foi parar na península da Etrúria, na Itália. Era um alimento de pobres do Sul da Itália.
+Hoje é aniversário de Maguila. Populares na Inglaterra nos séculos XVIII e XIX, as lutas de boxe com as mãos descobertas eram brutais. O esporte foi reformado em 1867 com as Regras de Quensberry, que previam rounds de três minutos e o uso de luvas. Entraram em vigor em 1872. Leia 10 curiosidades sobre o boxe.
