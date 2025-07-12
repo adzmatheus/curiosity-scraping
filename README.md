@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-11/07/2025
+12/07/2025
 -
-Hoje é aniversário de Maguila. Populares na Inglaterra nos séculos XVIII e XIX, as lutas de boxe com as mãos descobertas eram brutais. O esporte foi reformado em 1867 com as Regras de Quensberry, que previam rounds de três minutos e o uso de luvas. Entraram em vigor em 1872. Leia 10 curiosidades sobre o boxe.
+O Museu de Arte Moderna da Bahia foi inaugurado em 1960 e tem mil peças em seu acervo. Em 1966, foi transferido para o Solar do Unhão, conjunto arquitetônico do século XVI. Em 1997, o governo criou naquela área o Parque das Esculturas, com obras de Tunga, Siron Franco, Emanoel Araújo, entre outros.
