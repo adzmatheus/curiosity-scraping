@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-14/07/2025
+15/07/2025
 -
-Hoje é o Dia Mundial do Rock. Em 1967 aconteceram em estúdios vizinhos as gravações dos discos “Sgt. Pepper’s Lonely Heart Club Band”, dos Beatles, e “The Pipers at Gates of Dawn”, primeiro do Pink Floyd. John Lennon e Syd Barret ficaram amigos e dizem que muitas das ideias do disco de um foram sugestões do outro.
+Hoje seria aniversário de William Hanna, que faleceu em março de 2001. Hanna-Barbera é uma dupla de cartunistas — William Hanna e Joseph Barbera. Eles se conheceram em 1937, mas só foram trabalhar juntos 20 anos mais tarde. Na década de 1940, enviaram seus desenhos para Walt Disney, que prometeu viajar até Nova York na semana seguinte para contratá-los, mas não apareceu.
