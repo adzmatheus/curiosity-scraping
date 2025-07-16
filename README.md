@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-15/07/2025
+16/07/2025
 -
-Hoje seria aniversário de William Hanna, que faleceu em março de 2001. Hanna-Barbera é uma dupla de cartunistas — William Hanna e Joseph Barbera. Eles se conheceram em 1937, mas só foram trabalhar juntos 20 anos mais tarde. Na década de 1940, enviaram seus desenhos para Walt Disney, que prometeu viajar até Nova York na semana seguinte para contratá-los, mas não apareceu.
+José Maria da Silva Lisboa, mais conhecido como visconde de Cairu, foi um grande incentivador da abertura dos portos brasileiros ao comércio. Nascido no dia 16 de julho de 1756, em Salvador (BA), Lisboa atuou como político, advogado e publicista e, em 1801, publicou em Portugal do livro Princípio de Direito Mercantil, primeira obra de um brasileiro sobre economia política. Quando dom João VI passou pela Bahia, o Visconde lhe apresentou as vantagens que o país teria com a abertura dos portos, tendo grande influência sobre a Carta Régia de 24 de janeiro de 1808, que autorizou o comércio entre o Brasil e outros países. Lisboa morreu em 1835, no Rio de Janeiro, e o Dia do Comerciante, em homenagem a seu nascimento, foi instituído pela lei Federal n. 2048, publicada em 26 de outubro de 1953.
