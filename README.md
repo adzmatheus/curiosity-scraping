@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-23/07/2025
+24/07/2025
 -
-O site “When Will Amy Winehouse Die?” desafiava os internautas a adivinharem o dia da morte da autodestrutiva cantora. O “vencedor” ganharia um Ipod Touch. Amy Winehouse foi encontrada morta em sua casa no distrito de Camden, em Londres, no dia 23 de julho de 2011. Quatro internautas acertaram a data, e a aposta mais antiga, de 21 de dezembro de 2007, levou o prêmio. Depois da morte, Amy Winehouse se juntou ao “Clube dos 27”, lista de músicos que morreram aos 27 anos.
+A atriz neozelandesa Anna Paquin está fazendo aniversário. Em 1994, ela ganhou o Oscar de Melhor Atriz Coadjuvante, mas teria problemas para assistir ao filme de que participou, “O Piano”, em seu país. Na Nova Zelândia, a obra é proibida para menores de 16 anos. Na ocasião em que recebeu o prêmio, ela estava somente com 11. Curiosidades sobre mais atores mirins de Hollywood.
