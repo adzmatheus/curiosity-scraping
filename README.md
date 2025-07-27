@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-26/07/2025
+27/07/2025
 -
-Mick Jagger, vocalista dos Rolling Stones é o aniversariante do dia. Ele confessou que teve um caso amoroso com a mãe de seu colega Brian Jones. A ex-mulher dele, Jerry Hall, apareceu nua no espetáculo “A Primeira Noite de um Homem”, que estreou em Londres no segundo semestre de 2000. “Recusei uma proposta de 1 milhão de dólares para posar nua e, na peça, os fotógrafos conseguem as imagens de graça”, disse Jerry Hall.
+Para os hinduístas, a alma se liga a este mundo por meio de pensamentos, palavras e atitudes. Quando o corpo morre ocorre a transmigração. A alma passa para o corpo de outra pessoa ou para um animal. Na filosofia hindu dos Uphanishads, a alma do homem é imortal e livre da ação do tempo. Depois da morte, a alma de um indivíduo pode renascer numa casta diferente ou até mesmo no corpo de um animal. Para entender a morte em outras religiões, clique aqui.
