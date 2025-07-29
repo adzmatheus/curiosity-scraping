@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-28/07/2025
+29/07/2025
 -
-Para os hinduístas, a alma se liga a este mundo por meio de pensamentos, palavras e atitudes. Quando o corpo morre ocorre a transmigração. A alma passa para o corpo de outra pessoa ou para um animal. Na filosofia hindu dos Uphanishads, a alma do homem é imortal e livre da ação do tempo. Depois da morte, a alma de um indivíduo pode renascer numa casta diferente ou até mesmo no corpo de um animal. Para entender a morte em outras religiões, clique aqui.
+Antônio Carlos Bernardes Gomes, o Mussum, ganhou esse apelido antes da formação dos Trapalhões, em 1965. O humorista participou do programa Bairro Feliz, da TV Globo.  Na época, ainda servia ao Exército e se apresentava escondido, pois seus superiores não aprovavam sua carreira de humorista. Estava sempre barbeado e com a cabeça raspada e, por isso, recebeu o apelido de “mussum”, um peixe escuro e sem escamas.
