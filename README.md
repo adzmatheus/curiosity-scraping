@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-31/07/2025
+01/08/2025
 -
-Hoje é Dia do Orgasmo! A data foi criada por uma rede de sex shops da Inglaterra em 1999, para debater a necessidade de uma vida sexual mais satisfatória. O primeiro slogan comemorativo da data foi “Atinja, não finja”, pois, de acordo com pesquisa realizada na Inglaterra, pelo menos 80% das inglesas não conseguiam chegar ao orgasmo.
+O Dia do Selo é comemorado hoje, 1º de agosto, porque nesta data, no ano de 1843, foram emitidos os primeiros selos brasileiros. Chamados de Olho-de-Boi por causa de suas semelhanças ao olho do animal, tinham os valores de 30, 60 e 90 réis. O Brasil foi o terceiro país do mundo a implantar o novo sistema, pouco depois de um selo lançado em Zurique, na Suíça.
