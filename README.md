@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-04/08/2025
+05/08/2025
 -
-Hoje se comemora o Dia do Tintureiro porque é Dia da Santa Lídia, a padroeira desse profissional. Ela foi uma das primeiras cristãs na Europa. Judia comerciante de púrpura, se converteu ao cristianismo batizada por São Paulo. Sua cidade, Tiatira, na Ásia, se notabilizou pelos famosos tecidos de púrpura e pela indústria de tinta. A púrpura também é uma matéria corante vermelho-escura muito usada antigamente para tingir tecidos.
+Comemora-se o Dia do Padre em 4 de agosto em homenagem ao Dia de São João Maria Vianney, santo padroeiro dos sacerdotes. Ele nasceu na França, no ano de 1786, e depois de passar por muitas dificuldades por causa das poucas habilidades, foi ordenado sacerdote. Apesar de suas limitações, era um homem bom e converteu muitos fiéis. Se a princípio a Igreja não permitiu que ele confessasse pois não confiava em sua capacidade de dar conselhos, logo ele se tornou um dos mais famosos dos confessores. Em 1929, foi proclamado patrono dos padres.
