@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-05/08/2025
+06/08/2025
 -
-Comemora-se o Dia do Padre em 4 de agosto em homenagem ao Dia de São João Maria Vianney, santo padroeiro dos sacerdotes. Ele nasceu na França, no ano de 1786, e depois de passar por muitas dificuldades por causa das poucas habilidades, foi ordenado sacerdote. Apesar de suas limitações, era um homem bom e converteu muitos fiéis. Se a princípio a Igreja não permitiu que ele confessasse pois não confiava em sua capacidade de dar conselhos, logo ele se tornou um dos mais famosos dos confessores. Em 1929, foi proclamado patrono dos padres.
+Hoje é Dia da Bomba Atômica. Em 6 de agosto de 1945, a cidade japonesa de Hiroshima foi a primeira vítima da guerra nuclear. O piloto Paul Tibbets, no comando de um avião B-29, batizado de Enola Gay em homenagem à sua mãe, recebeu ordens dos Estados Unidos de detonar a primeira bomba atômica. O número de mortos e feridos chegou a 100 mil.
