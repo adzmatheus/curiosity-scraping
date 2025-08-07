@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-06/08/2025
+07/08/2025
 -
-Hoje é Dia da Bomba Atômica. Em 6 de agosto de 1945, a cidade japonesa de Hiroshima foi a primeira vítima da guerra nuclear. O piloto Paul Tibbets, no comando de um avião B-29, batizado de Enola Gay em homenagem à sua mãe, recebeu ordens dos Estados Unidos de detonar a primeira bomba atômica. O número de mortos e feridos chegou a 100 mil.
+Aos 4 anos de idade, Caetano Veloso compôs sua primeira canção. Antes de se dedicar definitivamente à música, Caetano trabalhou como crítico de cinema para o Diário de Notícias na década de 60. Seu chefe era ninguém menos que Glauber Rocha. Foi com os contatos do jornal que conseguiu seu primeiro trabalho musical: compor a trilha sonora da peça Boca de Ouro, de Nelson Rodrigues.
