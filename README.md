@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-07/08/2025
+08/08/2025
 -
-Aos 4 anos de idade, Caetano Veloso compôs sua primeira canção. Antes de se dedicar definitivamente à música, Caetano trabalhou como crítico de cinema para o Diário de Notícias na década de 60. Seu chefe era ninguém menos que Glauber Rocha. Foi com os contatos do jornal que conseguiu seu primeiro trabalho musical: compor a trilha sonora da peça Boca de Ouro, de Nelson Rodrigues.
+Dentro do mesmo ano, as datas 4/4, 6/6, 8/8, 10/10 e 12/12 caem no mesmo dia da semana, que é também o dia da semana do último dia de fevereiro – o chamado “Doomsday”. Assim, é possível calcular com antecedência o dia da semana que cairá qualquer dia do ano.
