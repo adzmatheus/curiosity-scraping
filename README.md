@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-13/08/2025
+14/08/2025
 -
-Durante as filmagens de O Inquilino Sinistro, em 1926, um extra faltou e o próprio diretor Alfred Hitchcock entrou em seu lugar. Gostou tanto da experiência que passou a fazer isso em seus outros filmes. Foram 35 no total, incluindo os trailers, que eram apresentados por ele.
+Earvin Johnson ganhou o apelido de “Magic Johnson” depois de uma partida em que marcou 36 pontos, conseguiu 18 rebotes e fez 16 assistências. Considerado o melhor atleta do circuito universitário de sua época, Magic Johnson, de 2,06 metros de altura, estreou no Los Angeles Lakers em 1979. Magic Johnson conquistou o título da NBA cinco vezes, ajudou sua equipe a chegar a nove finais e foi eleito três vezes como o melhor jogador de basquete dos Estados Unidos. Ele detém o recorde americano de assistências –  9.921 até o final da temporada 1990-91.
