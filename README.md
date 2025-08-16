@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-14/08/2025
+16/08/2025
 -
-Earvin Johnson ganhou o apelido de “Magic Johnson” depois de uma partida em que marcou 36 pontos, conseguiu 18 rebotes e fez 16 assistências. Considerado o melhor atleta do circuito universitário de sua época, Magic Johnson, de 2,06 metros de altura, estreou no Los Angeles Lakers em 1979. Magic Johnson conquistou o título da NBA cinco vezes, ajudou sua equipe a chegar a nove finais e foi eleito três vezes como o melhor jogador de basquete dos Estados Unidos. Ele detém o recorde americano de assistências –  9.921 até o final da temporada 1990-91.
+A data da criação do primeiro computador foi escolhida para comemorar o Dia da Informática. No final da Segunda Guerra Mundial, os esforços de todos os pesquisadores norte-americanos estavam voltados para a construção da bomba atômica. A tarefa demandava a realização de inúmeros cálculos e, em 15 de agosto de 1946, os engenheiros John William Mauchly e John Presper Eckart Jr. apresentaram uma máquina capaz de realizar o trabalho. O Eniac pesava 30 toneladas, ocupava 163 metros quadrados, funcionava por meio de válvulas e processava dados com grande eficiência. Caiu em desuso 10 anos depois.
