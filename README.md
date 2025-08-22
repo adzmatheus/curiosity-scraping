@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-21/08/2025
+22/08/2025
 -
-Hoje é Dia do Maçom! A comemoração marca o dia em que, no ano de 1822, vários grupos da maçonaria se reuniram no Rio de Janeiro para discutir – e aprovar – a Independência do Brasil. O próprio Dom Pedro I e seu conselheiro, José Bonifácio, eram maçons. Nessa data, a assembleia uniu as comunidades Comércio e Arte, União e Tranquilidade e Esperança de Niterói. Para os maçons, o grito de independência do dia 7 de setembro seria apenas um eco do que já havia sido decidido durante essa reunião.
+O arqueólogo inglês William John Thoms (1803 – 1885), criador do termo “folclore”, enviou uma carta à revista The Atheneum, de Londres, em 1846, sob o pseudônimo Ambrose Merton. Na carta, ele pedia apoio para o levantamento de informações sobre tradições e lendas daquele país. O documento foi publicado no dia 22 de agosto e, por isso, a data foi escolhida como o Dia Mundial do Folclore. A palavra “folclore” deriva do inglês folk-lore: folk (povo), lore (conhecimento empírico, sabedoria) – ou seja, o termo designa a sabedoria de um povo.
