@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-28/08/2025
+29/08/2025
 -
-Martin Luther King foi um dos organizadores da marcha pelos direitos civis em Washington (Estados Unidos), em 28 de agosto de 1963. Na ocasião, Luther King emocionou a multidão de 200 mil pessoas com o seu mais famoso discurso, “I Have a Dream” (“Eu tenho um sonho”). Um dos trechos dizia: “Eu tenho um sonho de que meus quatro filhos um dia viverão em uma nação que não os julgará pela cor de sua pele, mas pelo seu caráter.” Leia mais sobre discursos que mudaram a história.
+O primeiro hit solo de Michael Jackson foi “Ben”, canção que concorreu ao Oscar em 1973. Com apenas 14 anos, o cantor se apresentou na cerimônia e emocionou a plateia. Foi ao som do sucesso “Billie Jean”, que originalmente se chamava “Not My Lover” — frase que está no refrão —, que Jackson imortalizou uma de suas marcas mais famosas: o passo de dança batizado como moonwalk, quando escorrega para trás como se tivesse rodinhas nos sapatos.
