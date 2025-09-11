@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-09/09/2025
+11/09/2025
 -
-O ator e comediante Peter Sellers foi o primeiro homem a aparecer na capa da revista masculina Playboy (abril de 1964). Para fazer Al Capone de “Os Intocáveis” (1987), em aparições que somam apenas 18 minutos, Robert De Niro recebeu 1,5 milhão de dólares. Mais curiosidades sobre atores de Hollywood.
+Em 11 de setembro de 2001, quatro aviões foram sequestrados por terroristas afegãos nos Estados Unidos. Dois deles foram lançados contra as torres gêmeas do World Trade Center, em Nova York, que acabaram desabando. Morreram 2.819 pessoas. Foram recolhidos 65.000 objetos pessoais dos escombros. Entre eles estavam: 144 anéis, 437 relógios, 77 colares, 119 brincos e 80 pulseiras. As cédulas de dólares recolhidas nos destroços encheram 60 sacos de lixo de 100 litros cada.
