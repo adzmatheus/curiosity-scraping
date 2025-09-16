@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-15/09/2025
+16/09/2025
 -
-Entre 1915 e 1918, Agatha Christie trabalhou em uma farmácia preparando remédios e venenos. Muito do conhecimento que obteve nesse período a ajudou a escrever suas histórias de mistério. Seus livros venderam mais de 1 bilhão de cópias ao redor do mundo. A marca só é superada pela Bíblia e pelas obras de Shakespeare.
+O gás clorofluorcarbono – CFC – é considerado o maior responsável pela destruição da camada de ozônio na estratosfera. Para evitar que o problema se agravasse ainda mais, em 16 de setembro de 1987, 46 países assinaram o Protocolo de Montreal, no que se comprometiam a reduzir a fabricação de CFC até encerrá-la totalmente. Assim, a data foi escolhida pela Organização das Nações Unidas – ONU – para celebrar o Dia Internacional para a Preservação da Camada de Ozônio.
