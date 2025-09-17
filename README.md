@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-16/09/2025
+17/09/2025
 -
-O gás clorofluorcarbono – CFC – é considerado o maior responsável pela destruição da camada de ozônio na estratosfera. Para evitar que o problema se agravasse ainda mais, em 16 de setembro de 1987, 46 países assinaram o Protocolo de Montreal, no que se comprometiam a reduzir a fabricação de CFC até encerrá-la totalmente. Assim, a data foi escolhida pela Organização das Nações Unidas – ONU – para celebrar o Dia Internacional para a Preservação da Camada de Ozônio.
+A 8 quilômetros de Manaus, o rio Solimões se encontra com o rio Negro, afluente do Rio Amazonas, produzindo o fenômeno do Encontro das Águas. As duas grandes massas de água não se misturam porque têm temperaturas diferentes. Apesar do nome, as águas do Rio Negro são cristalinas. A impressão de escuridão surge do contraste provocado pelo encontro com as águas barrentas do rio Solimões. Mais curiosidades sobre o Rio Amazonas.
