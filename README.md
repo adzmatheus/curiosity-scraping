@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-24/09/2025
+25/09/2025
 -
-Os primeiros modelos de tesouras surgiram na Europa há cerca de 5 mil anos e tinham as lâminas unidas por uma mola. Na antiga Roma, assim como na China, no Japão e na Coreia, os artesãos utilizavam tesouras de eixo feitas de bronze ou de ferro, parecidas com as de hoje. Até o século XIX, eram fabricadas à mão e muito mais ornamentadas. O uso doméstico se iniciou no século XVI. A partir de 1761, com a manufatura de tesouras de aço pelo inglês Robert Hinchliffe, o utensílio tornou-se realmente popular.
+Hoje é Dia Nacional do Rádio! Considerado o “pai do rádio brasileiro”, Edgard Roquette Pinto nasceu em 25 de setembro de 1884, no Rio de Janeiro. Ele foi responsável pela implantação da primeira estação de rádio do país, a Rádio Sociedade do Rio de Janeiro, em 1923. A emissora foi instalada na Academia Brasileira de Letras. Roquette Pinto propunha o uso da radiofonia e da televisão no Brasil como meios de difundir a cultura. Ele morreu na capital carioca, em 1954.
