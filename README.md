@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-30/09/2025
+01/10/2025
 -
-Machado de Assis era bisneto de escravos e filho de Joaquim, um pintor de paredes mulato, e de Maria Leopoldina, uma lavadeira. Ele nasceu no Morro do Livramento, no Rio de Janeiro, ficou órfão de mãe aos 3 anos e de pai, aos 11. Não frequentou escola e tornou-se vendedor de balas na rua para a tia doceira.
+Hoje é Dia Mundial da Terceira Idade! A data, comemorada em 1 de outubro, foi aprovada pela ONU em 1990, como forma de promover um envelhecimento saudável e com mais qualidade de vida e integração social para os idosos. Essa foi uma das medidas do Plano de Ação Internacional de Viena sobre o Envelhecimento, criado durante a primeira Assembleia Mundial sobre o Envelhecimento, que aconteceu na capital austríaca em 1982.
