@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-01/10/2025
+02/10/2025
 -
-Hoje é Dia Mundial da Terceira Idade! A data, comemorada em 1 de outubro, foi aprovada pela ONU em 1990, como forma de promover um envelhecimento saudável e com mais qualidade de vida e integração social para os idosos. Essa foi uma das medidas do Plano de Ação Internacional de Viena sobre o Envelhecimento, criado durante a primeira Assembleia Mundial sobre o Envelhecimento, que aconteceu na capital austríaca em 1982.
+A marca registrada do cantor Wando era sua coleção de calcinhas. Ele tinha 17 mil peças íntimas – a maior coleção do tipo no Brasil – reunidas ao longo de mais de 20 anos. Desde 1990, Wando as levava a seus shows e as atirava ao público. O cantor tinha outras extravagâncias: distribuía convites de motel e, no auge de suas loucuras, instalou uma banheira no palco do Canecão (casa de shows no Rio de Janeiro), para que uma mulher nua se banhasse enquanto acontecesse o show.
