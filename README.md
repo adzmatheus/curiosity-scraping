@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-06/10/2025
+07/10/2025
 -
-O personagem Forrest Gump, vivido pelo ator Tom Hanks, ficou famoso por correr sem parar por bastante tempo. O norte-americano David Kunst fez mais ou menos como Forrest, só que na vida real. Ele foi a primeira pessoa a dar uma volta ao mundo a pé. Em 4 anos de corrida, Kunst usou 21 pares de sapatos.
+Hoje se comemora o Dia do Compositor. Quando gravava com Tom Jobim a música Corcovado, o compositor João Gilberto engasgava sempre no mesmo verso: Um cigarro e um violão/Este amor, uma canção…. Até que sugeriu trocar a palavra cigarro por cantinho. O maestro Jobim, que fumava perto de três maços de cigarro por dia, aceitou a ideia do ex-fumante. Aliás, João tem tanto horror a qualquer tipo de fumo que atribui a isso o fracasso no início de sua carreira.
