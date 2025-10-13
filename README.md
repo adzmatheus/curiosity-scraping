@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-12/10/2025
+13/10/2025
 -
-Doze chimpanzés atuaram nos filmes de Tarzã. O mais famoso deles chamava-se Jiggs e atuou ao lado de Johnny Weissmüller. Nos anos 60, já aposentado, passou a se dedicar ao seu hobby predileto: a pintura. Em 2008, foi lançado o livro “Mim, Chita”, autobiografia fictícia do macaco. Escrito por James Lever, mas assinado por Chita, o livro concorreu ao prêmio Booker Prize. Na véspera do Natal de 2011, Chita, que desde 2001 era considerada o macaco mais velho do mundo, morreu aos 81 anos, vítima de insuficiência renal. Mais bichos que brilharam nas telas.
+Hoje se comemora o Dia Nacional do Dinheiro. Nos primeiros tempos da civilização, ninguém precisava de dinheiro. Os problemas começaram a surgir quando os homens passaram a viver em sociedade. Valia tudo: sal, tijolos, dentes de cachorro ou pedaços de bambu. Há 2 mil anos, na Lídia, um pequeno país da Ásia Menor, alguém iniciou a cunhagem da moeda, em ouro, prata, cobre, bronze e outros metais. Outros países copiaram e aperfeiçoaram o sistema. Grécia e Roma colocaram símbolos nacionais nas moedas. A primeira moeda de prata de valor e peso definidos surgiu no século VII a.C. na ilha grega de Egina.
