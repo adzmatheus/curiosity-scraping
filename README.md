@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-14/10/2025
+15/10/2025
 -
-Hoje é aniversário de Roger Moore. Ele foi o ator que mais vezes representou o papel do agente 007: foram sete filmes. Outros cinco atores já passaram pelo papel. Sean Connery foi James Bond seis vezes; Pierce Brosnan, três vezes; Timothy Dalton, duas vezes; Daniel Craig, duas vezes; e George Lazenby, uma vez. Mas não estão contados os dois filmes fora da série original: “Casino Royale” (1967) e “Nunca mais outra vez” (1983).
+Hoje é Dia do Professor! A data é comemorada em 15 de outubro porque nesse dia, no ano de 1827, D. Pedro I propôs a criação das escolas primárias no Brasil. As “Escolas de Primeiras Letras” deveriam ensinar os meninos a ler e escrever, a fazer as quatro operações básicas de matemática e a ter noções de geometria.
