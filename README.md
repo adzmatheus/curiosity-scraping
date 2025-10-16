@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-15/10/2025
+16/10/2025
 -
-Hoje é Dia do Professor! A data é comemorada em 15 de outubro porque nesse dia, no ano de 1827, D. Pedro I propôs a criação das escolas primárias no Brasil. As “Escolas de Primeiras Letras” deveriam ensinar os meninos a ler e escrever, a fazer as quatro operações básicas de matemática e a ter noções de geometria.
+Hoje é Dia dos Endividados! É comemorado na data que homenageia Santa Edwiges, padroeira dos endividados. Ela viveu na Bavária (Alemanha) e, ao se casar com o duque Henrique I, recebeu um polpudo dote. Generosa, usou o dinheiro para ajudar os mais necessitados. Edwiges foi canonizada em 1627.
