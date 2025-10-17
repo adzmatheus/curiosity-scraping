@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-16/10/2025
+17/10/2025
 -
-Hoje é Dia dos Endividados! É comemorado na data que homenageia Santa Edwiges, padroeira dos endividados. Ela viveu na Bavária (Alemanha) e, ao se casar com o duque Henrique I, recebeu um polpudo dote. Generosa, usou o dinheiro para ajudar os mais necessitados. Edwiges foi canonizada em 1627.
+Hoje é Dia Nacional da Música Popular Brasileira! Em 2012, a presidente Dilma Rousseff sancionou a lei de criação da data, que homenageia o nascimento de Chiquinha Gonzaga. Francisca Edwiges Neves Gonzaga, natural do Rio de Janeiro, é considerada a primeira compositora popular do Brasil. Explorando ritmos como polca, tango, marcha e rancho, ela fazia uma espécie de ponte entre a música erudita e a música popular. É dela “Ó Abre Alas”, a primeira marchinha de Carnaval registrada no país.
