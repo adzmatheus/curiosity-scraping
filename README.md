@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-20/10/2025
+21/10/2025
 -
-A atriz Glória Menezes está fazendo aniversário. Em “Cavalo de Aço”, novela em que contracenou com seu marido, o ator Tarcísio Meira, o casal gravava uma cena num barco, em que haveria uma explosão e eles escapariam. Mas o barco alagou, afundou e o diretor, Walter Avancini, fascinado com a cena, não parou de filmar. Só chamou os bombeiros quando o casal estava quase morrendo afogado.
+Hoje se comemora o Dia do Lixeiro. A cada 24 horas, o Brasil produz 240 mil toneladas de lixo — sujeira que seria suficiente para lotar 1.160 aviões cargueiros do tipo Boeing 747. Em 1996, cada brasileiro jogava fora meio quilo de lixo por dia. Em 2012, a média pulou para 1,06 kg por pessoa, levando em conta todos os tipos de lixo.
