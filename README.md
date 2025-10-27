@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-26/10/2025
+27/10/2025
 -
-Hoje é o Dia da Democracia. As primeiras eleições no Brasil foram marcadas por uma série de irregularidades. Não havia tribunal eleitoral. Ninguém sabia ao certo quanto dos 17 milhões de brasileiros estavam aptos a votar. As mulheres, os analfabetos e os menores de 21 anos não tinham direito de votar. Na eleição de 1990, o voto foi aberto aos analfabetos e maiores de 16 anos e menores de 18 anos, embora facultativo. Confira, eleição a eleição, quem podia votar, clicando aqui.
+O escritor Graciliano Ramos nasceu em 27 de outubro de 1892. Seu romance “Angústia” foi publicado durante os nove meses em que esteve preso por motivos políticos, entre 1936 e 1937. Mas “Memórias do Cárcere”, que relata a experiência do escritor na prisão, só foi lançado no ano de sua morte (1953).
