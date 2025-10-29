@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-28/10/2025
+29/10/2025
 -
-O escritor Graciliano Ramos nasceu em 27 de outubro de 1892. Seu romance “Angústia” foi publicado durante os nove meses em que esteve preso por motivos políticos, entre 1936 e 1937. Mas “Memórias do Cárcere”, que relata a experiência do escritor na prisão, só foi lançado no ano de sua morte (1953).
+O Dia Nacional do Livro, 29 de outubro, comemora a fundação da Biblioteca Nacional, que nasceu com a transferência da Real Biblioteca portuguesa para o Brasil. O acervo tinha 60 mil peças, entre livros, manuscritos, mapas, moedas, medalhas, etc., tudo acomodado nas salas do Hospital da Ordem Terceira do Carmo, no Rio de Janeiro. Em 29 de outubro de 1810, a biblioteca foi transferida e essa passou a ser a data oficial de sua fundação. Até o ano de 1814, os estudiosos precisavam de uma autorização prévia para consultá-la.
