@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-29/10/2025
+30/10/2025
 -
-O Dia Nacional do Livro, 29 de outubro, comemora a fundação da Biblioteca Nacional, que nasceu com a transferência da Real Biblioteca portuguesa para o Brasil. O acervo tinha 60 mil peças, entre livros, manuscritos, mapas, moedas, medalhas, etc., tudo acomodado nas salas do Hospital da Ordem Terceira do Carmo, no Rio de Janeiro. Em 29 de outubro de 1810, a biblioteca foi transferida e essa passou a ser a data oficial de sua fundação. Até o ano de 1814, os estudiosos precisavam de uma autorização prévia para consultá-la.
+Hoje é o Dia do Protestante. O fundador do protestantismo foi Martinho Lutero. Para restaurar a catedral de São Paulo, o papa Leão X passou a vender indulgências, que diminuiriam a punição do pecador. Indignado com isso, em 31 de outubro de 1517 Lutero denunciou a prática. O papa o chamou de “alemão bêbado”.
