@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-30/10/2025
+31/10/2025
 -
-Hoje é o Dia do Protestante. O fundador do protestantismo foi Martinho Lutero. Para restaurar a catedral de São Paulo, o papa Leão X passou a vender indulgências, que diminuiriam a punição do pecador. Indignado com isso, em 31 de outubro de 1517 Lutero denunciou a prática. O papa o chamou de “alemão bêbado”.
+No século XVI, baseando-se na mitologia do povo celta, o cartógrafo genovês Angel Dalorto desenhou uma ilha em um de seus mapas. A porção de terra cercada estava a oeste do sul da costa da Irlanda. Para o cartógrafo, era ali o lugar que São Brandão, um monge irlandês que se aventurou para o alto-mar no ano de 565, descreveu como a Terra abençoada, onde havia abundância, clima ameno e igualdade entre seus habitantes. Curiosamente, no mapa de Dalorto essa ilha se chamava Ilha do Brasil.
