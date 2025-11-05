@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-04/11/2025
+05/11/2025
 -
-Apesar de ser um grande fã da caça, Santo Humberto acabou escolhido como o patrono dos guardas florestais, e é homenageado no dia 3 de novembro. Nascido na Holanda por volta do ano de 656, Humberto descobriu sua missão religiosa ao ver um crucifixo entre os chifres de um cervo que tentava caçar. Ele foi bispo de Maestricht e também de Liège. Morreu na Bélgica, de causas naturais, no dia 30 de maio de 727.
+Hoje é Dia do Inventor. Um dos maiores inventores da história foi Thomas Alva Edison. Ele registrou seu primeiro invento – uma máquina de votar, pela qual ninguém se interessou – quando tinha 21 anos. Dois anos mais tarde, inventou um indicador automático de cotações da bolsa de valores. Vendeu-o por 40 mil dólares e tomou a decisão de trabalhar em um laboratório próprio, num subúrbio de Nova York.
