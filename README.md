@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-10/11/2025
+11/11/2025
 -
-Martinho Lutero, autor da Reforma Protestante do século 16, é citado por parte dos historiadores como o iniciador da tradição da árvore de natal. Ele teria montado um pinheiro enfeitado com velas em sua casa, para mostrar às crianças como deveria ser o céu na noite do nascimento de Cristo.
+Em 11 de novembro de 1918, selou-se o acordo que pôs fim à Primeira Guerra Mundial. Dois grupos entraram em confronto: de um lado, a Tríplice Aliança, formada por Alemanha, Itália e Império Austro-Húngaro e, do outro, a Tríplice Entente, da França, Inglaterra e Rússia. Mais tarde, o Japão e os Estados Unidos entraram na guerra como aliados da Entente, e a Itália mudou de lado. A Alemanha e seus aliados foram derrotados.
