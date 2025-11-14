@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-13/11/2025
+14/11/2025
 -
-O serial killer Charles Manson e seu bando elegeram a música “Helter Skelter“, dos Beatles, como hino, e culparam a letra pelos assassinatos que cometeram em 1969. A batida da música é tão intensa que Ringo Starr sangrou as mãos ao gravar a bateria.
+O anão Dunga foi cogitado pelos estúdios Disney para viver o papel do feiticeiro em Fantasia (1940). Isso porque, na época, o desenho da Branca de Neve estava no auge de sua popularidade. Walt Disney, no entanto, não teve dúvidas em sua preferência por Mickey Mouse. Yen Sid, nome do feiticeiro de “O Aprendiz de Feiticeiro”, é “Disney” escrito ao contrário. O sonho de Walt Disney era fazer não só uma, mas várias sequências de Fantasia. Ele desenvolveu material suficiente para 8 novos filmes da série. O projeto só saiu do papel, no entanto, em 1999, com Fantasia 2000.
