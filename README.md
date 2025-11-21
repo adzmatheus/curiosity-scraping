@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-20/11/2025
+21/11/2025
 -
-A primeira bandeira nacional foi criada em 18 de setembro de 1822, mas o modelo do atual pavilhão brasileiro foi projetado em 1889 por Raimundo Teixeira Mendes e Miguel Lemos. A esfera azul substituiu a antiga coroa imperial, e dentro dela estava representado o céu do Rio de Janeiro com a constelação do Cruzeiro do Sul, exatamente como apareceu às 8h30 do dia 15 de novembro de 1889, que marcou a Proclamação da República. A nova bandeira foi aprovada no dia 19 de novembro do mesmo ano.
+A homeopatia no Brasil foi introduzida por um discípulo de Samuel Hahnemann, o pai da homeopatia. O francês Benoit-Jules Mure chegou ao Brasil no dia 21 de novembro de 1844. Bento Mure, como ficou conhecido, veio ao país para implantar uma colônia de sócios que tinha como objetivo formar a base de uma comunidade industrial de máquinas a vapor. No pouco tempo que ficou no Rio, no bairro da Lapa, o dr. Mure clinicou e difundiu a homeopatia através de curas “miraculosas”. O francês recebeu licença do Governo Imperial para montar sua colônia e partiu com cem famílias a bordo do navio Caroline para colonizar a península do Sahy, na divisa do Paraná com Santa Catarina.
