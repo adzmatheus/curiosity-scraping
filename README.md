@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-26/11/2025
+27/11/2025
 -
-Em 25 de novembro de 1960, três miltantes dominicanas, as irmãs Minerva, Pátria e Maria Teresa Mirabal, foram brutalmente assassinadas por ordem do ditador Rafael Leonidas Trujillo. Em homenagem a “Las Mariposas”, codinome das irmãs, foi criado o Dia Internacional pela Eliminação da Violência Contra a Mulher, no I Encontro Feminista da América Latina e Caribe, realizado em Bogotá, Colômbia, em 1981. A data foi oficialmente reconhecida pela ONU em 17 de dezembro de 1999, como forma de auxiliar as mulheres que têm a vida abalada pela violência e por maus tratos no mundo todo.
+Sabe como surgiu o estrogonofe? Os soldados russos costumavam transportar pedaços de carne em barris, usando sal grosso e aguardente como conservantes. Para preparar a refeição, eles juntavam cebola à carne. No reinado de Pedro, o Grande, o prato foi aperfeiçoado por um cozinheiro chamado Stroganov e acabou sendo batizado com seu nome. Em 1800, o chef francês Thierry Costet, trabalhando na Rússia, adicionou os ingredientes nobres: champignons, mostarda, páprica e molho inglês.
