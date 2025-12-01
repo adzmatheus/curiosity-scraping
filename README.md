@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-30/11/2025
+01/12/2025
 -
-Os chifres dos alces levam 6 anos para atingir seu desenvolvimento pleno. Pesam 20 quilos e a abertura entre suas pontas chega a medir quase 2 metros. Em certas regiões da Ásia, as fêmeas dos alces são ordenhadas como as vacas. Conheça outros mamíferos curiosos.
+Hoje é o Dia do Evangélico. Desde 2011 o dia 30 de novembro entrou para o calendário nacional como o Dia do Evangélico. A ideia nasceu na Câmara dos Deputados Distritais de Brasília – tanto que hoje é feriado na capital federal. O projeto de lei foi apresentado na Câmara Distrital em 1995 pelo deputado Carlos Xavier (foto), que estava no primeiro dos seus três mandatos como distrital. Ao longo de quase 10 anos na função ele apresentou outros projetos que demonstravam sua fé como o que obrigava o ensino religioso nas escolas do Distrito Federal ou o que ampliava as áreas públicas para construção de templos religiosos. Seu terceiro mandato, no entanto, não chegou ao fim: em 2004 ele foi cassado como suspeito de ser o mandante do assassinato do jovem Ewerton da Rocha Ferreira. Xavier suspeitava que o rapaz de 16 anos estava namorando sua ex-esposa. Ewerton foi morto com dois tiros na cabeça, segundo o Ministério Público, a mando do deputado. Xavier não passou um dia sequer na cadeia pois conseguiu sucessivas vezes recorrer em liberdade. Em abril o Superior Tribunal Federal mais uma vez lhe concedeu a liberdade provisória.
