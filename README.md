@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-03/12/2025
+04/12/2025
 -
-O Dia Nacional da Astronomia é comemorado em 2 de dezembro. Segundo Ednilson Oliveira, doutorando do Departamento de Astronomia do Instituto Astronômico e Geofísico da USP, a data está relacionada ao aniversário de D.Pedro II. Ele nasceu em 2 de dezembro de 1825, no Palácio de São Cristóvão, Quinta da Boa Vista, na cidade do Rio de Janeiro. Embora não fosse astrônomo, o imperador brasileiro foi um grande incentivador da atividade no país. Amante das artes e das ciências, o imperador criou o Observatório Nacional. D. Pedro II morreu em 5 de dezembro de 1891.
+Hoje é Dia Internacional da Pessoa com Deficiência. O dia foi escolhido durante uma Assembleia Geral da ONU, realizada em 14 de outubro de 1992, e coincide com a data da adoção do Programa de Ação Mundial para as Pessoas com Deficiência pela Assembleia Geral da ONU, em 1982. As entidades mundiais da área criaram o dia visando gerar conscientização, compromisso e ações que transformem a situação dos deficientes no mundo.
