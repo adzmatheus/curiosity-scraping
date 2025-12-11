@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-10/12/2025
+11/12/2025
 -
-O Prêmio Nobel consiste em uma medalha de ouro, um diploma e uma soma variável em dinheiro. O químico sueco Alfred Nobel, inventor da dinamite, deixou uma fortuna de 6 milhões de dólares, cujos juros anuais são divididos entre aqueles que tenham se destacado e prestado bons serviços à humanidade. Além de medicina, as outras categorias são: física, química, literatura, economia e paz. A cerimônia de premiação acontece sempre em 10 de dezembro, aniversário da morte de Alfred Nobel.
+Hoje é Dia do Tango! A data é uma homenagem a Carlos Gardel, o maior cantor de tangos da história. Ele nasceu na França, no dia 11 de dezembro de 1890, e imigrou com sua mãe para a Argentina aos três anos de idade. Gardel ficou conhecido pela maneira sensual como interpretava o tango. Compôs vários tangos famosos, como “Mi Buenos Aires Querido”. Morreu em 24 de junho de 1935, num acidente de avião em Medellin, Colômbia. A data é comemorada na Argentina desde 1977.
