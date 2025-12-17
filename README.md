@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-16/12/2025
+17/12/2025
 -
-Hoje seria aniversário do compositor Ludwig van Beethoven. Para criar suas músicas, ele despejava água gelada sobre a cabeça. Garantia que isso estimulava o cérebro. Ele era totalmente surdo quando compôs a sua Nona sinfonia. Sofreu perda parcial da audição aos 32 anos e aos 46 não podia ouvir mais nada.
+Um Conto de Natal (A Christmas Carol) foi escrito por Charles Dickens em 1843 em uma tentativa de cobrir algumas de suas dívidas. O “livrinho de Natal”, apelido dado pelo autor, acabou se tornando um dos maiores clássicos natalinos de todos os tempos. Nos primeiros dias, foram comercializadas mais de 6 mil cópias.
