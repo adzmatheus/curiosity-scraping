@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-17/12/2025
+18/12/2025
 -
-Um Conto de Natal (A Christmas Carol) foi escrito por Charles Dickens em 1843 em uma tentativa de cobrir algumas de suas dívidas. O “livrinho de Natal”, apelido dado pelo autor, acabou se tornando um dos maiores clássicos natalinos de todos os tempos. Nos primeiros dias, foram comercializadas mais de 6 mil cópias.
+De acordo com um estudo genealógico feito em 2008 pela Sociedade Histórica Genealógica da Nova Inglaterra, Brad Pitt e Barack Obama são primos de nono grau. Angelina Jolie, sua esposa desde 2005, também seria prima de nono grau de Hillary Clinton. Mais curiosidades sobre atores de Hollywood.
