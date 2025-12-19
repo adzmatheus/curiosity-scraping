@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-18/12/2025
+19/12/2025
 -
-De acordo com um estudo genealógico feito em 2008 pela Sociedade Histórica Genealógica da Nova Inglaterra, Brad Pitt e Barack Obama são primos de nono grau. Angelina Jolie, sua esposa desde 2005, também seria prima de nono grau de Hillary Clinton. Mais curiosidades sobre atores de Hollywood.
+Ben Affleck é amigo do ator Matt Damon há vários anos. Eles ganharam o Oscar de Melhor Roteiro Original em 1997, por “Gênio Indomável”. O roteiro do filme foi vendido por 600 mil dólares. Matt e Ben conheceram-se em Cambridge, Estados Unidos. Eles chegaram a dividir pelo menos dez apartamentos. Mais curiosidades sobre atores de Hollywood.
