@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-21/12/2025
+22/12/2025
 -
-Quem assistiu ao filme O Gladiador (2000) certamente não sabia dos efeitos afrodisíacos da arena. No livro A Arte do Amor, escrito há cerca de 2 mil anos, Ovídio observa que as mulheres ficavam mais dispostas e atenciosas quando viam os gladiadores disputando a vida no meio das feras. Um estudo científico confirmou o efeito desta descarga de estimulante cardíaco. Uma injeção de adrenalina pode levar alguém a se sentir apaixonado por qualquer pessoa atraente que esteja perto.
+Os duendes são criaturas encantadas alegres e bagunceiros que vivem em colônias debaixo da terra. Amam festas, músicas e danças. Escolhem crianças como companheiros. O duende é um elemental noturno, que desaparece ao amanhecer. Gosta de despertar quem está dormindo profundamente. A melhor maneira de acalmar um duende é deixar um copo de leite no criado-mudo para que ele possa tomar um golinho.
