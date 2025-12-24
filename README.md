@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-23/12/2025
+24/12/2025
 -
-Os duendes são criaturas encantadas alegres e bagunceiros que vivem em colônias debaixo da terra. Amam festas, músicas e danças. Escolhem crianças como companheiros. O duende é um elemental noturno, que desaparece ao amanhecer. Gosta de despertar quem está dormindo profundamente. A melhor maneira de acalmar um duende é deixar um copo de leite no criado-mudo para que ele possa tomar um golinho.
+O amigo-secreto, ou amigo-oculto, teria sido criado por donos de fábricas norte-americanas. No fim do ano, os operários eram obrigados a participar de uma confraternização em que trocavam presentes. O problema era que os empregados mais chatos não recebiam nada dos colegas. Para resolver a situação, os presenteados passaram a ser escolhidos por sorteio.
