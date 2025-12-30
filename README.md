@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/12/2025
+30/12/2025
 -
-O branco, que simboliza a paz, é a cor que predomina no Reveillon, mas cada cor tem seu significado na chegada de um novo ano. Muitas mulheres escolhem a cor da calcinha de acordo com o que querem alcançar no ano que está chegando. Vestir uma peça vermelha, por exemplo, significa mais paixão, a rosa, amor. Para quem está sem dinheiro, a mais recomendada é a amarela. A laranja atrai bons negócios enquanto a verde, traz saúde.
+A corrida de São Silvestre acontece em São Paulo desde 1924. O idealizador da prova, o jornalista Cásper Líbero, assistiu a uma corrida em Paris que acontecia durante a noite e era iluminada por tochas que os participantes levavam. No mesmo ano, ele criou a corrida de São Silvestre. A primeira prova era de 8.800 metros e teve 48 inscritos. Ela começou à meia-noite do dia 31 de dezembro e terminou no dia 1º de janeiro de 1925. Em 1989, a corrida passou a ser realizada no período da tarde e, dois anos depois, o percurso passou para 15 quilômetros.
