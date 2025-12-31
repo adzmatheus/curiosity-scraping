@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-30/12/2025
+31/12/2025
 -
-A corrida de São Silvestre acontece em São Paulo desde 1924. O idealizador da prova, o jornalista Cásper Líbero, assistiu a uma corrida em Paris que acontecia durante a noite e era iluminada por tochas que os participantes levavam. No mesmo ano, ele criou a corrida de São Silvestre. A primeira prova era de 8.800 metros e teve 48 inscritos. Ela começou à meia-noite do dia 31 de dezembro e terminou no dia 1º de janeiro de 1925. Em 1989, a corrida passou a ser realizada no período da tarde e, dois anos depois, o percurso passou para 15 quilômetros.
+A prova feminina da São Silvestre começou a ser disputada em 1975. A primeira campeã foi a alemã ocidental Christa Valensieck, com o tempo de 28 minutos e 39 segundos. A brasileira Marta Fuhrman ficou em quinto. Mas foi a segunda edição da prova feminina que chamou mais atenção. A mexicana Veronica Martinez ficou com o quarto lugar, mesmo tendo apenas 13 anos.
