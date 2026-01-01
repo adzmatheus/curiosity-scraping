@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-31/12/2025
+01/01/2026
 -
-A prova feminina da São Silvestre começou a ser disputada em 1975. A primeira campeã foi a alemã ocidental Christa Valensieck, com o tempo de 28 minutos e 39 segundos. A brasileira Marta Fuhrman ficou em quinto. Mas foi a segunda edição da prova feminina que chamou mais atenção. A mexicana Veronica Martinez ficou com o quarto lugar, mesmo tendo apenas 13 anos.
+Na Bahia, o dia 1º de janeiro é o dia da festa de Bom Jesus dos Navegantes. Durante todo o dia imagens de Cristo e de outros santos são colocadas em embarcações enfeitadas e cruzam a baía de Todos os Santos. Os baianos também costumam deseja “axé” para as pessoas queridas. Essa expressão quer dizer “boa sorte” e simboliza uma energia positiva que permite que outras existam.
