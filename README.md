@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-02/01/2026
+03/01/2026
 -
-Na Bahia, o dia 1º de janeiro é o dia da festa de Bom Jesus dos Navegantes. Durante todo o dia imagens de Cristo e de outros santos são colocadas em embarcações enfeitadas e cruzam a baía de Todos os Santos. Os baianos também costumam deseja “axé” para as pessoas queridas. Essa expressão quer dizer “boa sorte” e simboliza uma energia positiva que permite que outras existam.
+As cestas com redes presas nos aros, usadas nos campos de basquete, foram adotadas em 1896. Elas eram fechadas no fundo porque o ponto só valia quando a bola permanecia lá dentro. Ao lado da cesta, sempre havia uma escada ou um bastão para sua retirada. Logo depois, criou-se um dispositivo para abrir o fundo da rede com a ajuda de um barbante. O formato atual passou a ser usado em 1898.
