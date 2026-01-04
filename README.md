@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-03/01/2026
+04/01/2026
 -
-As cestas com redes presas nos aros, usadas nos campos de basquete, foram adotadas em 1896. Elas eram fechadas no fundo porque o ponto só valia quando a bola permanecia lá dentro. Ao lado da cesta, sempre havia uma escada ou um bastão para sua retirada. Logo depois, criou-se um dispositivo para abrir o fundo da rede com a ajuda de um barbante. O formato atual passou a ser usado em 1898.
+Uma das principais causas da calvície é a hereditariedade. Se você é filho, sobrinho ou neto de um dos 35 milhões de carecas brasileiros, pode coçar a cabeça, pois a calvície é determinada por um par de genes, um do pai, outro da mãe. No homem, basta apenas um dos genes indicar a calvície para nascer um carequinha. Na mulher é preciso que os dois genes sejam da calvície para que o problema se manifeste.
