@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-11/01/2026
+12/01/2026
 -
-Cientistas britânicos elaboraram a fórmula perfeita para preparar o sanduíche de queijo perfeito: W = [1 + ((bd) / 6,5)) – s + ((m – 2c) / 2) + ((v+p) / 7t)] . (100 + l/1000). Dissecando a fórmula: “bd” é o tipo de pão a partir da espessura; “s” é a quantidade de margarina ou manteiga utilizada; “m” é a quantidade de maionese; “t”, “v” e “p” representam, respectivamente, tomates e dois condimentos. O “l” é a alface e o resultado (“W”) é a quantidade de queijo utilizado.
+A primeira expedição ao Alto Xingu foi feita pelo alemão Karl Von Steinen, em 1884, mas só a partir de 1944, durante o governo de Getúlio Vargas, que o homem branco começou a desbravar a região. A Expedição Roncador-Xingu foi organizada pelo governo para abrir estradas e construir campos de pouso numa região praticamente inexplorada. Em 1946, os irmãos Leonardo, Cláudio e Orlando Villasboas – aniversariante do dia – passaram a integrar as expedições e se dedicar à pacificação e proteção aos índios. O empenho deles provocou a criação do Parque Nacional do Xingu.
