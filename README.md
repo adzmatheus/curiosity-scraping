@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-17/01/2026
+18/01/2026
 -
-O entrevistador Jô Soares é o aniversariante do dia. Em 1961, ele participava da peça “Oscar”, ao lado de Cacilda Becker e Walmor Chagas. O teatro tinha uma escada em espiral e ele fazia uma entrada no meio do terceiro ato. Numa apresentação, ele desceu correndo e quebrou o pé. Mesmo sentindo muita dor, conseguiu terminar o espetáculo.
+Janis Joplin, além de ter sido a cantora ídolo da geração “paz e amor”, era bem maluquinha. Numa viagem de trem, ficou frustrada por ter transado com apenas 65 homens dos 365 que estavam a bordo. Em 1967, Janis foi apresentada a Albert Grossman, empresário de Bob Dylan e respeitado no meio hippie. Drogada, ela caiu no chão em estado lastimável. Foi contratada no dia seguinte.
