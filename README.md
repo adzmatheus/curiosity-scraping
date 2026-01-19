@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-18/01/2026
+19/01/2026
 -
-Janis Joplin, além de ter sido a cantora ídolo da geração “paz e amor”, era bem maluquinha. Numa viagem de trem, ficou frustrada por ter transado com apenas 65 homens dos 365 que estavam a bordo. Em 1967, Janis foi apresentada a Albert Grossman, empresário de Bob Dylan e respeitado no meio hippie. Drogada, ela caiu no chão em estado lastimável. Foi contratada no dia seguinte.
+O capitão brasileiro Cafu quebrou o protocolo na hora de receber a taça do pentacampeonato mundial do Brasil em 2002. Ele pediu que escrevessem “100% Jardim Irene” (bairro da zona sul de São Paulo onde foi criado) em sua camisa. Depois, avisou ao presidente da Fifa, Joseph Blatter, que iria subir no pedestal onde a taça estava guardada.
