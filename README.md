@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/01/2026
+28/01/2026
 -
-Wolfgang Amadeus Mozart, aniversariante do dia, escreveu a ópera “Don Giovanni” em um só dia. Ela foi executada pela primeira vez no dia seguinte, sem qualquer ensaio. Mozart teve 600 composições catalogadas. Clique aqui e conheça mais curiosidades de música clássica.
+Em 1808, a família real portuguesa transferiu-se para o Brasil a fim de se proteger das tropas de Napoleão Bonaparte. Em sua condição de colônia, o Brasil só podia manter relações comerciais com Portugal, até que, no dia 28 de janeiro, o príncipe regente dom João VI pôs fim a esse monopólio ao assinar o decreto de abertura dos portos brasileiros, que liberou o comércio entre o Brasil e outras “nações amigas”. Assim, a data foi escolhida para comemorar o Dia do Comércio Exterior. José da Silva Lisboa, o visconde de Cairu, foi um dos responsáveis pelo ato.
