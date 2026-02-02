@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-01/02/2026
+02/02/2026
 -
-Clark Gable, aniversariante do dia, foi o galã de “… E o Vento Levou” (1939). O filme custou 4,2 milhões de dólares. Das 83 horas de filmagem, a edição final ficou com 3 horas e 45 minutos.
+Hoje é Dia de Iemanjá, a entidade feminina mais respeitada do candomblé. Deusa dos mares e oceanos, em seu dia ela recebe muitas oferendas, que são lançadas ao mar. Mãe de todos os orixás, é representada com seios volumosos, que simbolizam a maternidade e a fecundidade. Também pode ser chamada de Janaína, Princesa do Mar, Sereia do Mar, Sereia Oloxum, Rainha do Mar e Dandalunda. Para conhecer outros deuses dessa religião, clique aqui.
