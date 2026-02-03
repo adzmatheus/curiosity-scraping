@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-02/02/2026
+03/02/2026
 -
-Hoje é Dia de Iemanjá, a entidade feminina mais respeitada do candomblé. Deusa dos mares e oceanos, em seu dia ela recebe muitas oferendas, que são lançadas ao mar. Mãe de todos os orixás, é representada com seios volumosos, que simbolizam a maternidade e a fecundidade. Também pode ser chamada de Janaína, Princesa do Mar, Sereia do Mar, Sereia Oloxum, Rainha do Mar e Dandalunda. Para conhecer outros deuses dessa religião, clique aqui.
+Hoje, comemora-se o Dia da Navegação no São Francisco. Esse rio é o maior inteiramente brasileiro (que nasce e morre dentro do país). Por isso, ganhou o apelido de Rio da Integração Nacional. No cânion dele, entre as cidades de Paulo Afonso (BA) e Piranhas (AL), fica a maior concentração de usinas hidrelétricas do Brasil – 9 ao todo, num trecho de apenas 70 quilômetros.
