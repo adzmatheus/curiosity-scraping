@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-07/02/2026
+08/02/2026
 -
-Em 1992, durante a turnê do Guns N’Roses no Brasil, Axl Rose, aniversariante do dia, atirou uma cadeira no aglomerado de jornalistas que o aguardava no saguão de um hotel em São Paulo. Não foi a primeira vez que o cantor teve que se explicar na delegacia. Em sua ficha, por exemplo, consta uma garrafa quebrada na cabeça de uma vizinha que ousou reclamar do barulho na casa do moço. Sem falar no mergulho que Axl deu sobre a plateia de um show em Saint Louis (EUA), em 1991, que deixou feridos e lhe custou uma fiança de 50 mil dólares. 10 encrenqueiros do rock.
+Em 1923, os gráficos da cidade de São Paulo organizaram uma greve para reivindicar aumento de salários, jornada de trabalho menor e o reconhecimento da União dos Trabalhadores Gráficos – UTG – pela Associação Comercial dos Empresários. A polícia entrou em choque com os grevistas e fez questão de inutilizar os alimentos coletados pelo fundo de greve. Sem comida, os trabalhadores revidaram com o slogan: “Se necessário, comeremos terra”. Após 40 dias de paralisação, no dia 7 de fevereiro, a UTG teve suas exigências atendidas, e a data passou a ser comemorada como Dia do Gráfico.
