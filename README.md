@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-09/02/2026
+10/02/2026
 -
-A aniversariante do dia é Carmen Miranda. A Pequena Notável usou a roupa de baiana pela primeira vez em 1939 no filme “Banana da terra”. Apesar de ser conhecida como Taí, o nome da marchinha de Joubert de Carvalho, gravada por Carmem, era “Pra você gostar de mim”. Vendeu 35 mil exemplares em 1930, um número impressionante para a época.
+Hoje Mãe Menininha do Gantois faria aniversário. Maria Escolástica da Conceição Nazaré, filha de Oxum, foi a mais famosa de todas as mães-de-santo brasileiras. Deve parte de sua fama à música Oração de Mãe Menininha, de Dorival Caymmi, frequentador de seu terreiro, em Salvador. O terreiro sagrado do Gantois nasceu de uma dissidência do Candomblé do Engenho Velho.
