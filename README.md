@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-13/02/2026
+14/02/2026
 -
-Hoje é Dia do Coletor de Lixo. Sabia que, juntando material reciclável em vez de colocá-lo no lixo, você pode ganhar dinheiro? R$ 3.500 é o preço médio pago pela tonelada de latas de alumínio no Brasil, tornando-as o material reciclável mais valioso. Uma tonelada de alumínio equivale a 62 mil latinhas e vale 10 vezes mais do que uma tonelada de papel. Para saber mais sobre reciclagem, clique aqui.
+A Semana de Arte Moderna teve início no dia 13 de fevereiro de 1922 e se estendeu nos dias 15 e 17 de fevereiro. É considerada marco inicial do movimento modernista e contou com as participações de artistas, músicos e intelectuais como Graça Aranha, Mário e Oswald de Andrade, Sérgio Buarque de Holanda, Tarsila do Amaral e Heitor Villa-Lobos.
