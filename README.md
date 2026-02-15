@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-14/02/2026
+15/02/2026
 -
-A Semana de Arte Moderna teve início no dia 13 de fevereiro de 1922 e se estendeu nos dias 15 e 17 de fevereiro. É considerada marco inicial do movimento modernista e contou com as participações de artistas, músicos e intelectuais como Graça Aranha, Mário e Oswald de Andrade, Sérgio Buarque de Holanda, Tarsila do Amaral e Heitor Villa-Lobos.
+Se o matemático Galileu Galilei estivesse vivo, comemoraria seu aniversário neste dia. Ele ficou totalmente cego pouco tempo antes de sua morte por causa dos danos causados nos olhos durante os muitos anos que passou olhando o Sol através de um telescópio. Galileu, além de contribuir para o melhoria desse equipamento, também trabalhou no aprimoramento do termômetro.
