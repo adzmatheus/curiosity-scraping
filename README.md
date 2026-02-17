@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-16/02/2026
+17/02/2026
 -
-Xiboquinha é uma bebida típica do forró-jovem, mistura pinga, cravo, canela, limão, gengibre e ervas. Criada por Hans Wolfgang Mehster, ela é uma adaptação de um drinque feito com aguardente de frutas e cereais, ervas e especiarias.
+O apelido de Alfredo da Rocha Viana Filho, o Pixinguinha, vem de uma mistura de pizidim  (“menino bom”, no dialeto africano falado por sua avó) e bexiguinha, como era chamado na época em que contraiu varíola. Curiosidades sobre 20 músicos brasileiros.
