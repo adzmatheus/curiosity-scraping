@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-22/02/2026
+23/02/2026
 -
-O filme Os cafajestes, realizado por Ruy Guerra em 1962, provocou escândalo quando foi lançado. Exibia, durante 4 minutos, Norma Bengell, aniversariante do dia, no primeiro nu frontal de que se tem notícia na cinematografia brasileira.
+O ex-presidente da Fifa, o brasileiro João Havelange, visitou 194 países segundo seus próprios cálculos. Foram 19.200 horas de vôo entre 1974 e 1998. Como presidente da antiga Confederação Brasileira de Desportos, entre 1958 e 1974, ele diz ter feito mais 10 mil horas.
