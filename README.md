@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-24/02/2026
+25/02/2026
 -
-O ex-presidente da Fifa, o brasileiro João Havelange, visitou 194 países segundo seus próprios cálculos. Foram 19.200 horas de vôo entre 1974 e 1998. Como presidente da antiga Confederação Brasileira de Desportos, entre 1958 e 1974, ele diz ter feito mais 10 mil horas.
+O ex-Beatle George Harrison faria aniversário hoje. Ele morreu no dia 29 de novembro de 2001, vítima de câncer. Com “My Sweet Lord”, George foi o primeiro integrante da banda a ter uma música solo de sucesso depois da separação do grupo.
