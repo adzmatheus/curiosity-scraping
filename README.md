@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-25/02/2026
+26/02/2026
 -
-O ex-Beatle George Harrison faria aniversário hoje. Ele morreu no dia 29 de novembro de 2001, vítima de câncer. Com “My Sweet Lord”, George foi o primeiro integrante da banda a ter uma música solo de sucesso depois da separação do grupo.
+O escritor francês Victor Hugo faria aniversário hoje. Seu clássico Os miseráveis foi chamado de “um dos maiores best-sellers de todos os tempos”. Em 1862, nas 24 horas seguintes à publicação da primeira edição de Paris, as 7 mil cópias foram todas vendidas. O livro foi publicado simultaneamente em Bruxelas, Budapeste, Leipzig (na Alemanha), Madri, Rio de Janeiro, Rotterdam e Varsóvia. Depois, a obra foi traduzida para quase todas as línguas do mundo. No século XX, Os miseráveis se tornou filme e musical da Broadway. Em 2012, foi refilmado para o cinema.
