@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-27/02/2026
+28/02/2026
 -
-No filme Cleópatra (1963), Elizabeth Taylor usou 65 roupas diferentes – outras 40 não chegaram a aparecer no longa. O total de figurinos desta produção foi de 26 mil. Só perde para os 32 mil do épico Quo Vadis (1951).
+Hoje é Dia da Proteção à Pesca. Em dezembro de 1987, foi sancionado pelo presidente da República um projeto de lei acabando com a pesca de baleia no Brasil. Essa medida encerrou as atividades da Companhia de Pesca Norte do Brasil (Copesbra), empresa dedicada à pesca desses mamíferos desde 1912. O alvo principal da empresa era a baleia-mink, que tem um peso médio de 7 toneladas.
