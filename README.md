@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-01/03/2026
+02/03/2026
 -
-O dia 29 de fevereiro ocorre apenas uma vez a cada quatro anos. O tempo de translação da Terra ao redor do Sol (um ano) dura 365 dias e mais seis horas, de modo que a cada quadriênio completa-se mais um dia. No século XVIII, porém, existiu também o dia 30 de fevereiro. Em 1699, a Suécia resolveu mudar do calendário juliano para o gregoriano. Havia uma diferença de 11 dias entre eles e esta diferença seria alcançada anulando os dias 29 de fevereiro entre 1700 e 1740. De fato isso aconteceu em 1700, mas em 1704 e 1708 o dia 29 de fevereiro foi mantido. Dessa forma, a Suécia estava um dia à frente do calendário juliano e 10 atrás do gregoriano. Os suecos então preferiram voltar ao calendário juliano em 1712. Foi mantido o dia 29 de fevereiro e ainda adicionado mais um, o 30 de fevereiro. Em 1753, 11 dias de fevereiro foram excluídos e os suecos aderiram ao calendário gregoriano saltando do dia 17 de fevereiro para o dia 1º de março.
+Hoje é Dia Nacional do Turismo. Um lugar que hipnotiza a todos os turistas é o Arquipélago de Fernando de Noronha. Na Segunda Guerra Mundial, a ilha serviu de base para aviões americanos, mas hoje atrai gente interessada em suas praias de águas cristalinas. Além de belezas naturais, o arquipélago tem muitas curiosidades. Para conhecê-las, e também para saber sobre outras ilhas brasileiras, clique aqui.
