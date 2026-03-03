@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-02/03/2026
+03/03/2026
 -
-Hoje é Dia Nacional do Turismo. Um lugar que hipnotiza a todos os turistas é o Arquipélago de Fernando de Noronha. Na Segunda Guerra Mundial, a ilha serviu de base para aviões americanos, mas hoje atrai gente interessada em suas praias de águas cristalinas. Além de belezas naturais, o arquipélago tem muitas curiosidades. Para conhecê-las, e também para saber sobre outras ilhas brasileiras, clique aqui.
+O escocês Alexander Graham Bell, aniversariante do dia, seguiu os passos de seu pai e de seu avô e dedicou-se a melhorar a comunicação com deficientes auditivos. Mas, afinal, o que fez ele de importante? Inventou o telefone, oras! E esse aparelho, que não nos deixa imaginar como seria a vida sem ele, impulsionou a criação de outros, tão presentes em nosso dia-a-dia: pager, fax, telefone celular...
