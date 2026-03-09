@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-08/03/2026
+09/03/2026
 -
-Comemora-se o Dia do Paleontólogo na mesma data de fundação da Sociedade Brasileira de Paleontologia (SBP). Essa é a ciência que estuda fósseis vegetais e animais. Criada em 1958, a SBP tem sede na cidade do Rio de Janeiro. A Sociedade é aberta aos profissionais das áreas de Geologia, Biologia, Geografia, Arqueologia, Medicina e Química.
+O astronauta soviético Yuri Alieksieievitch Gagarin, aniversariante do dia, foi o primeiro homem a viajar pelo espaço. Isso aconteceu no dia 12 de abril de 1961, a bordo da Vostok I, uma nave que pesava 4.725 quilos. O passeio durou 1h48. Vendo nosso planeta do espaço, ele disse a famosa frase: “A terra é azul”.
