@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-15/03/2026
+16/03/2026
 -
-Hoje é comemorado o Dia Mundial do Consumidor. Nesse dia, em 1962, o então presidente dos EUA, John Kennedy enviou ao Congresso uma mensagem na qual defendia os direitos dos consumidores. A declaração presidencial provocou debates e estudos sobre o tema e é considerada um marco na defesa dos direitos do consumidor.
+Em 29 de janeiro de 1976, a Corte de Roma declarou que o filme “O Último Tango em Paris”, do diretor Bernardo Bertolucci, aniversariante do dia, era obsceno. Bertolucci, o produtor Alberto Grimaldi e os atores, entre eles Marlon Brando, estariam sujeitos a ir parar na prisão caso aparecessem na cidade.
