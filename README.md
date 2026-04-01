@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-30/03/2026
+01/04/2026
 -
-Às vésperas do Natal de 1888, o pintor Vincent van Gogh, aniversariante do dia, cortou a orelha direita. Uma das versões atribui o ato a uma vingança contra a amante Virginie, uma prostituta de Arles, no sul da França, para quem teria enviado a orelha ensangüentada dentro de um envelope, depois de saber que ela se apaixonara pelo seu amigo Paul Gauguin. Outra versão diz que Van Gogh cortou a orelha como autopunição por ter ameaçado Gauguin com uma faca. A crise rendeu ao pintor holandês dois auto-retratos com a orelha cortada e uma internação no hospício.
+Isaac Newton é lembrado sempre pela descoberta da Lei da Gravidade. Em 1666, quando o jovem cientista tirava um cochilo embaixo de uma macieira, um dos frutos se soltou do galho e caiu em sua cabeça. Ele se pôs a estudar esse fato aparentemente tão simples e descobriu a gravidade. A maçã havia caído por causa da força que atrai todos os corpos em direção ao centro do planeta. Ele usou essa teoria para explicar como a Lua é mantida em órbita ao redor da Terra. Mostrou também que os corpos celestes são quase esféricos devido à gravidade, que se distribui em todas as direções.
