@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-01/04/2026
+02/04/2026
 -
-Isaac Newton é lembrado sempre pela descoberta da Lei da Gravidade. Em 1666, quando o jovem cientista tirava um cochilo embaixo de uma macieira, um dos frutos se soltou do galho e caiu em sua cabeça. Ele se pôs a estudar esse fato aparentemente tão simples e descobriu a gravidade. A maçã havia caído por causa da força que atrai todos os corpos em direção ao centro do planeta. Ele usou essa teoria para explicar como a Lua é mantida em órbita ao redor da Terra. Mostrou também que os corpos celestes são quase esféricos devido à gravidade, que se distribui em todas as direções.
+O Patinho Feio, A Roupa Nova do Imperador, A Pequena Sereia: essas histórias conhecidas das crianças do mundo inteiro são apenas algumas das 168 escritas pelo grande homenageado do Dia Internacional do Livro Infantil, o escritor dinamarquês Hans Christian Andersen. Nascido na cidade de Odense, no dia 2 de abril de 1805, ele é considerado o maior autor de histórias infantis de todos os tempos. A International Board on Books for Young People, organização que promove a literatura infantil, todos os anos oferece o “Hans Christian Andersen”, considerado o Prêmio Nobel do gênero. Já foram premiadas as brasileiras Lygia Bojunga, em 1982, e Ana Maria Machado, em 2000. Andersen morreu no dia 4 de agosto de 1875.
