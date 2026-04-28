@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-23/04/2026
+28/04/2026
 -
-Hoje é Dia Nacional do Choro, em homenagem ao nascimento do músico Pixinguinha. O apelido de Alfredo da Rocha Viana Filho vem de uma mistura de “pizidim” (“menino bom”, no dialeto africano falado por sua avó) com “bexiguinha”, como era chamado na época em que contraiu varíola. A data existe oficialmente desde 4 de setembro de 2000, quando o presidente Fernando Henrique Cardoso sancionou a lei proposta pelo senador Artur da Távola e originada por iniciativa do bandolinista Hamilton Holanda e de seus alunos na Escola de Choro Rafael Rabello.
+Dinho, vocalista do Capital Inicial, está fazendo aniversário. Ele é filho de diplomatas. Antes de ir para Brasília, morou em Genebra, na Suíça. A canção “Música Urbana”, sucesso de sua banda, só tinha uma estrofe. Dinho ligou para Renato Russo, da Legião Urbana, e pediu a segunda estrofe. Ele fez a letra na hora, ditando para que Dinho escrevesse.
