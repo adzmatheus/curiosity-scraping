@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-06/05/2026
+07/05/2026
 -
-Em 2011, a cantora Adele bateu um recorde de Madonna: desde 1990, uma mulher não ficava em primeiro lugar nas paradas britânicas por 10 semanas seguidas. Não satisfeita, ela também quebrou recordes de Beatles e Pink Floyd, ao ficar por 16 semanas em primeiro lugar nas paradas dos Estados Unidos. E tem mais: desde os Beatles, em 1964, ela é a primeira artista a ter dois hits entre os 5 primeiros das paradas britânicas simultaneamente.
+Na data de hoje, dois nomes ilustres da música clássica comemoravam seus aniversários: Johannes Brahms (1833) e Piotr Ilich Tchaikovski (1840). Brahms costumava destruir os originais que não eram aprovados por sua severa autocrítica. Ele compôs obras de quase todos os gêneros musicais, exceto ópera. Tchaikovski, quando regeu sua primeira música própria em público, teve a alucinação de que sua cabeça iria se desprender a não ser que ele a mantivesse totalmente rígida. O músico só voltou a reger em público 10 anos depois.
