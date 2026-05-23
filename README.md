@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-22/05/2026
+23/05/2026
 -
-Hoje é o dia de Santa Rita de Cássia, a padroeira dos apicultores. Quando ela ainda era pequenininha, seus pais trabalhavam no campo e, como não tinham com quem deixá-la, a colocavam em um cesto de vime perto da lavoura. Um dia, Rita foi envolvida por um enxame de abelhas brancas mas, em vez de picá-la, elas levaram mel à sua boca. A tradição conta também que, quando Santa Rita morreu, em 1457, seu corpo foi envolto por abelhas negras.
+A sigla M.M.D.C. representa os nomes dos quatro rapazes mortos no levante paulista de 23 de maio de 1932: Miragaia, Martins, Dráusio e Camargo. Uma lei promulgada em 2004 acrescentou à sigla MMDC a letra A. Ela se refere a Alvarenga, sobrenome de Orlando de Oliveira. Supõe-se que o rapaz também teria morrido nos conflitos contra aliados de Getúlio Vargas. A decisão de incluí-lo no grupo de combatentes causou polêmica. Há dúvidas sobre a data dos ferimentos de Alvarenga. Acredita-se que ele tenha sido ferido apenas em agosto, pois há um espaço de tempo em que seu nome não consta na relação de internos do hospital.
