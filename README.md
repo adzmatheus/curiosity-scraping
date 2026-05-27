@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-26/05/2026
+27/05/2026
 -
-O ator John Wayne, aniversariante do dia, esteve entre os 10 atores que mais recebem correspondências 25 vezes em sua carreira, mais do que qualquer estrela da história do cinema. Entre 1949 e 1974, em apenas um ano ele não apareceu: 1956. Nos anos de 1950, 1951, 1954 e 1971 ele foi o número 1 do ranking.
+A Confederação Nacional das Profissões Liberais foi legalmente reconhecida no dia 27 de maio de 1954, pelo decreto no 35.575. Fundada no dia 11 de fevereiro de 1953, a entidade representa aproximadamente 40 categorias de profissionais autônomos, ou seja, profissionais que não têm vínculo empregatício com as empresas onde trabalham.
