@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-30/05/2026
+31/05/2026
 -
-Hoje é Dia dos Bandeiras. Bandeiras em estado ruim de conservação não podem ser hasteadas em nenhum lugar do território nacional, mas sim entregues a uma unidade militar para que sejam incineradas em 19 de novembro, Dia da Bandeira.
+Hoje é aniversário de Marília Gabriela . Antes de ser jornalista, a apresentadora também trabalhou como modelo. E em 2001, ela atacou de atriz, protagonizando o espetáculo Esperando Beckett, dirigido por Gerald Thomas.
