@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-31/05/2026
+01/06/2026
 -
-Hoje é aniversário de Marília Gabriela . Antes de ser jornalista, a apresentadora também trabalhou como modelo. E em 2001, ela atacou de atriz, protagonizando o espetáculo Esperando Beckett, dirigido por Gerald Thomas.
+Apesar de já ter ganho o Oscar, o aniversariante de hoje, Morgan Freeman, começou sua carreira como figurante. A primeira aparição do ator nas telas dos cinemas foi em “O Homem do Prego”, de 1964, como um pedestre. Freeman fez mais duas figurações antes de ser creditado por um personagem.
