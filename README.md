@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-01/06/2026
+02/06/2026
 -
-Apesar de já ter ganho o Oscar, o aniversariante de hoje, Morgan Freeman, começou sua carreira como figurante. A primeira aparição do ator nas telas dos cinemas foi em “O Homem do Prego”, de 1964, como um pedestre. Freeman fez mais duas figurações antes de ser creditado por um personagem.
+Hoje é aniversário do Marquês de Sade. Seu nome verdadeiro era Donatien­ Alphonse­ François Sade. Como escritor, ele descreveu o prazer de torturar e humilhar o parceiro para obter satisfação sexual. Ele usava a violência em busca do prazer, na intimidade das alcovas e das celas de prisões e asilos que frequentou. Foi por isso que esse hábito ganhou o nome de “sadismo”. Sua fama cresceu por causa das inúmeras queixas que as prostitutas faziam às autoridades policiais. Ele as levava a um apartamento alugado na rua Muffetard, em Paris. Ao chegar lá, as prostitutas eram apresentadas a uma coleção de chicotes, cinturões de couro e correntes.
