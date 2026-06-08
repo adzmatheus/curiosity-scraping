@@ -1,5 +1,5 @@
 # curiosity-scraping
 ![Budget](./execucao.png)
-07/06/2026
+08/06/2026
 -
-Os papagaios não falam, apenas imitam os sons que ouvem. Os formatos recurvados do bico, do palato (céu da boca) e da língua, associados à parte respiratória, facilitam a reprodução de sons mais graves, parecidos com a voz do homem. O mainá, pássaro nativo da Índia, imita a fala humana com mais fidelidade que o papagaio. Desvende mais lendas animais.
+Hoje é o aniversário da atriz Sônia Braga. Ela despontou na televisão em 1967. Tinha 17 aninhos e participava do programa “O Mundo Encantado de Ronnie Von”, na TV Record. Sônia era a fadinha que lia as cartas dos telespectadores. O ator Antônio Fagundes confessou que deu apenas um beijo de língua de verdade na TV. Foi nela, durante a novela “Dancing days”. Todos os outros foram de mentirinha.
